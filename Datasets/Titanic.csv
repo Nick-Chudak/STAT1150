@@ -1,0 +1,2180 @@
+Surname,First Names,Gender,Age,Boarded,Survived,Class
+Dean,Miss Elizabeth Gladys “Millvina”,Female,0.17,Southampton,S,3
+Danbom,Master Gilbert Sigvard Emanuel,Male,0.33,Southampton,V,3
+Tannūs,Master As’ad,Male,0.42,Cherbourg,S,3
+Hämäläinen,Master Viljo Unto Johannes,Male,0.58,Southampton,S,2
+Peacock,Master Albert Edward,Male,0.58,Southampton,V,3
+Baclini,Miss Helene Barbara,Female,0.75,Cherbourg,S,3
+Richards,Master Sibley George,Male,0.75,Southampton,S,2
+West,Miss Barbara Joyce,Female,0.83,Southampton,S,2
+Aks,Master Frank Philip,Male,0.83,Southampton,S,3
+Caldwell,Master Alden Gates,Male,0.83,Southampton,S,2
+Allison,Master Hudson Trevor,Male,0.92,Southampton,S,1
+Johnson,Miss Eleanor Ileen,Female,1,Southampton,S,3
+Klasén,Miss Gertrud Emilia,Female,1,Southampton,V,3
+Laroche,Miss Louise,Female,1,Cherbourg,S,2
+Nakid,Miss Maria,Female,1,Cherbourg,S,3
+Sandström,Miss Beatrice Irene,Female,1,Southampton,S,3
+Becker,Master Richard F.,Male,1,Southampton,S,2
+Dean,Master Bertram Vere,Male,1,Southampton,S,3
+Goodwin,Master Sidney Leslie,Male,1,Southampton,V,3
+Mallet,Master André Clement,Male,1,Cherbourg,S,2
+Panula,Master Eino Viljam,Male,1,Southampton,V,3
+Allison,Miss Helen Loraine,Female,2,Southampton,V,1
+Andersson,Miss Ellis Anna Maria,Female,2,Southampton,V,3
+Hirvonen,Miss Hildur Elisabeth,Female,2,Southampton,S,3
+Peter/Joseph,Miss Anna,Female,2,Cherbourg,S,3
+Quick,Miss Phyllis May,Female,2,Southampton,S,2
+Rosblom,Miss Salli Helena,Female,2,Southampton,V,3
+Skoog,Miss Margit Elizabeth,Female,2,Southampton,V,3
+Ström,Miss Telma Matilda,Female,2,Southampton,V,3
+Navratil,Master Edmond Roger,Male,2,Southampton,S,2
+Pålsson,Master Gösta Leonard,Male,2,Southampton,V,3
+Panula,Master Urho Abraham,Male,2,Southampton,V,3
+Rice,Master Eugene Francis,Male,2,Queenstown,V,3
+Wells,Master Ralph Lester,Male,2,Southampton,S,2
+Baclini,Miss Eugenie,Female,3,Cherbourg,S,3
+Laroche,Miss Simonne Marie Anne Andrée,Female,3,Cherbourg,S,2
+Lefebvre,Miss Ida,Female,3,Southampton,V,3
+Pålsson,Miss Stina Viola,Female,3,Southampton,V,3
+Peacock,Miss Treasteall,Female,3,Southampton,V,3
+Asplund,Master Edvin Rojj Felix,Male,3,Southampton,S,3
+Coutts,Master Neville Leslie,Male,3,Southampton,S,3
+Navratil,Master Michel Marcel,Male,3,Southampton,S,2
+Richards,Master William Rowe,Male,3,Southampton,S,2
+Becker,Miss Marion Louise,Female,4,Southampton,S,2
+Karun,Miss Manca,Female,4,Cherbourg,S,3
+Kink-Heilmann,Miss Luise Gretchen,Female,4,Southampton,S,3
+Sandström,Miss Marguerite Rut,Female,4,Southampton,S,3
+Wells,Miss Joan,Female,4,Southampton,S,2
+West,Miss Constance Mirium,Female,4,Southampton,S,2
+Andersson,Master Sigvard Harald Elias,Male,4,Southampton,V,3
+Dodge,Master Washington,Male,4,Southampton,S,1
+Johnson,Master Harold Theodor,Male,4,Southampton,S,3
+Mubārik,Master Hal īm,Male,4,Cherbourg,S,3
+Peter/Joseph,Master Michael J.,Male,4,Cherbourg,S,3
+Rice,Master Arthur,Male,4,Queenstown,V,3
+Sage,Master Thomas Henry,Male,4,Southampton,V,3
+Asplund,Miss Lillian Gertrud,Female,5,Southampton,S,3
+Baclini,Miss Marie Catherine,Female,5,Cherbourg,S,3
+Emanuel,Miss Virginia Ethel,Female,5,Southampton,S,3
+Asplund,Master Carl Edgar,Male,5,Southampton,V,3
+Lefebvre,Master Henry,Male,5,Southampton,V,3
+Skoog,Master Harald,Male,5,Southampton,V,3
+Andersson,Miss Ebba Iris Alfrida,Female,6,Southampton,V,3
+Harper,Miss Annie Jessie,Female,6,Southampton,S,2
+Pålsson,Master Paul Folke,Male,6,Southampton,V,3
+Spedden,Master Robert Douglas,Male,6,Cherbourg,S,1
+Būlus,Miss Nūr-al-Ayn,Female,7,Cherbourg,V,3
+Ford,Miss Robina Maggie,Female,7,Southampton,V,3
+Hart,Miss Eva Miriam,Female,7,Southampton,S,2
+Johnston,Miss Catherine Nellie,Female,7,Southampton,V,3
+Sage,Miss Constance Gladys,Female,7,Southampton,V,3
+Moor,Master Meier,Male,7,Southampton,S,3
+Mubārik,Master Jirjis,Male,7,Cherbourg,S,3
+Panula,Master Juha Niilo,Male,7,Southampton,V,3
+Rice,Master Eric,Male,7,Queenstown,V,3
+Collyer,Miss Marjorie Lottie,Female,8,Southampton,S,2
+Lefebvre,Miss Jeannie,Female,8,Southampton,V,3
+Pålsson,Miss Torborg Danira,Female,8,Southampton,V,3
+Quick,Miss Winifred Vera,Female,8,Southampton,S,2
+Davies,Master John Morgan Jr,Male,8,Southampton,S,2
+Drew,Master Marshall Brines,Male,8,Southampton,S,2
+Johnston,Master William Andrew,Male,8,Southampton,V,3
+Rice,Master George Hugh,Male,8,Queenstown,V,3
+Tu’Mah,Master Jirjis Yūsuf,Male,8,Cherbourg,S,3
+Andersson,Miss Ingeborg Constanzia,Female,9,Southampton,V,3
+Skoog,Miss Mabel,Female,9,Southampton,V,3
+Tu’Mah,Miss Mariyam,Female,9,Cherbourg,S,3
+Asplund,Master Clarence Gustaf Hugo,Male,9,Southampton,V,3
+Būlus,Master Akar,Male,9,Cherbourg,V,3
+Coutts,Master William Loch,Male,9,Southampton,S,3
+Goldsmith,Master Frank John William,Male,9,Southampton,S,3
+Goodwin,Master Harold Victor,Male,9,Southampton,V,3
+Olsen,Master Artur Karl,Male,9,Southampton,S,3
+Van Billiard,Master Walter John,Male,9,Southampton,V,3
+Goodwin,Miss Jessie Allis,Female,10,Southampton,V,3
+Sage,Miss Elizabeth Ada,Female,10,Southampton,V,3
+Van Impe,Miss Catharina,Female,10,Southampton,V,3
+Rice,Master Albert,Male,10,Queenstown,V,3
+Seman,Master Betros,Male,10,Cherbourg,V,3
+Van Billiard,Master James William,Male,10,Southampton,V,3
+Andersson,Miss Sigrid Elisabeth,Female,11,Southampton,V,3
+Carter,Master William Thornton II,Male,11,Southampton,S,1
+Goodwin,Master William Frederick,Male,11,Southampton,V,3
+Ibrāhīm,Mr Husayn Mahmūd Husayn,Male,11,Cherbourg,V,3
+N īqūla Yārid,Master Ilyās,Male,11,Cherbourg,S,3
+Skoog,Master Karl Thorsten,Male,11,Southampton,V,3
+Becker,Miss Ruth Elizabeth,Female,12,Southampton,S,2
+Lefebvre,Miss Mathilde,Female,12,Southampton,V,3
+Watt,Miss Robertha Josephine,Female,12,Southampton,S,2
+Sage,Master Anthony William,Male,12,Southampton,V,3
+Carter,Miss Lucile Polk,Female,13,Southampton,S,1
+Mellinger,Miss Violet Madeline,Female,13,Southampton,S,2
+Asplund,Master Filip Oscar,Male,13,Southampton,V,3
+Ryerson,Master John Borie,Male,13,Cherbourg,S,1
+N īqūla Yārid,Miss Jamilah,Female,14,Cherbourg,S,3
+Nasser,Mrs Adele,Female,14,Cherbourg,V,2
+Sage,Miss Dorothy,Female,14,Southampton,V,3
+Veström,Miss Hulda Amanda Adolfina,Female,14,Southampton,V,3
+Abbott,Mr Eugene Joseph,Male,14,Southampton,V,3
+Goodwin,Mr Charles Edward,Male,14,Southampton,V,3
+Panula,Master Jaako Arnold,Male,14,Southampton,V,3
+Svensson,Mr Johan Cervin,Male,14,Southampton,S,3
+Sweet,Mr George Frederick,Male,14,Southampton,V,2
+Ayoub Daher,Miss Banoura,Female,15,Cherbourg,S,3
+Brown,Miss Edith Eileen,Female,15,Southampton,S,2
+Najib Kiamie,Miss Adele,Female,15,Cherbourg,S,3
+Yazbeck,Mrs Selini,Female,15,Cherbourg,V,3
+Allum,Mr Owen George,Male,15,Southampton,V,3
+Bailey,Mr Percy,Male,15,Southampton,V,2
+Elias,Mr Joseph jr.,Male,15,Cherbourg,V,3
+Vanderplancke,Mr Leo Edmondus,Male,15,Southampton,V,3
+Barratt,Mr. Arthur,Male,15,Southampton,V,Crew
+Watson,Mr. Ennis Hastings,Male,15,Belfast,V,Crew
+Abelseth,Miss Karen Marie,Female,16,Southampton,S,3
+Corr,Miss Ellen,Female,16,Queenstown,S,3
+Cribb,Miss Laura Mae,Female,16,Southampton,S,3
+Goodwin,Miss Lillian Amy,Female,16,Southampton,V,3
+Jabbur (Zabour),Miss Hileni,Female,16,Cherbourg,V,3
+Lines,Miss Mary Conover,Female,16,Cherbourg,S,1
+Madill,Miss Georgette Alexandra,Female,16,Southampton,S,1
+O’Leary,Miss Hanora,Female,16,Queenstown,S,3
+Tannūs,Mrs Tham īn,Female,16,Cherbourg,S,3
+Abbott,Mr Rossmore Edward,Male,16,Southampton,V,3
+De Pelsmaeker,Mr Alfons,Male,16,Southampton,V,3
+Eklund,Mr Hans Linus,Male,16,Southampton,V,3
+Ford,Mr William Neal Thomas,Male,16,Southampton,V,3
+Lane,Mr Patrick,Male,16,Queenstown,V,3
+Mudd,Mr Thomas Cupper,Male,16,Southampton,V,2
+O’Connor,Mr Maurice,Male,16,Queenstown,V,3
+Osén,Mr Olaf Elon,Male,16,Southampton,V,3
+Panula,Mr Ernesti Arvid,Male,16,Southampton,V,3
+Pulner,Mr Uscher,Male,16,Cherbourg,V,3
+Sage,Mr Frederick,Male,16,Southampton,V,3
+Samaan,Mr Youssef,Male,16,Cherbourg,V,3
+Thomas/Tannous,Mr Tannous,Male,16,Cherbourg,V,3
+Turvey,Mr. Charles,Male,16,Southampton,V,Crew
+Harris,Mr. Clifford Henry,Male,16,Southampton,V,Crew
+Hopkins,Mr. F.,Male,16,Southampton,V,Crew
+Humby,Mr. Frederick,Male,16,Southampton,V,Crew
+Andersson,Miss Erna Alexandra,Female,17,Southampton,S,3
+Attalah,Miss Malake,Female,17,Cherbourg,V,3
+Burns,Miss Mary Delia,Female,17,Queenstown,V,3
+Dick,Mrs Vera,Female,17,Southampton,S,1
+Gilnagh,Miss Katherine,Female,17,Queenstown,S,3
+Hargadon,Miss Catherine,Female,17,Queenstown,V,3
+Hippach,Miss Jean Gertrude,Female,17,Cherbourg,S,1
+Ilett,Miss Bertha,Female,17,Southampton,V,2
+Lehmann,Miss Bertha,Female,17,Cherbourg,S,2
+McGowan,Miss Anna Louise,Female,17,Queenstown,V,3
+Silvén,Miss Lyyli Karoliina,Female,17,Southampton,S,2
+Smyth,Miss Julia,Female,17,Queenstown,S,3
+Andrew,Mr Edgar Samuel,Male,17,Southampton,V,2
+Calic,Mr Jovo,Male,17,Southampton,V,3
+Calic,Mr Petar,Male,17,Southampton,V,3
+Carraú-Esteves,Mr José Pedro,Male,17,Southampton,V,1
+Culumovic,Mr Jeso,Male,17,Southampton,V,3
+Davies,Mr Joseph,Male,17,Southampton,V,3
+Dika,Mr Mirko,Male,17,Southampton,V,3
+Jensen,Mr Svend Lauritz,Male,17,Southampton,V,3
+Kallio,Mr Nikolai Erland,Male,17,Southampton,V,3
+Nakhli,Mr Toufik,Male,17,Cherbourg,V,3
+O’Connell,Mr Patrick Denis,Male,17,Queenstown,V,3
+Parker,Mr Clifford Richard,Male,17,Southampton,V,2
+Pokrnic,Mr Mate,Male,17,Southampton,V,3
+Rush,Mr Alfred George John,Male,17,Southampton,V,3
+Sadowitz,Mr Henry,Male,17,Southampton,V,3
+Samaan,Mr Elias,Male,17,Cherbourg,V,3
+Thayer,Mr John Borland Jr,Male,17,Cherbourg,S,1
+Jones,Mr. Albert,Male,17,Southampton,V,Crew
+Middleton,Mr. Alfred Pirrie,Male,17,Belfast,V,Crew
+Russell,Mr. Boysie Richard,Male,17,Southampton,V,Crew
+Price,Mr. Ernest,Male,17,Southampton,V,Crew
+Allen,Mr. Frederick,Male,17,Southampton,V,Crew
+Donati,Mr. Italo Francesco,Male,17,Southampton,V,Crew
+Collins,Mr. John,Male,17,Southampton,S,Crew
+Crovella,Mr. Luigi,Male,17,Southampton,V,Crew
+Piatti,Mr. Luigi,Male,17,Southampton,V,Crew
+Pacey,Mr. Reginald Ivan,Male,17,Southampton,V,Crew
+Peracchio,Mr. Sebastiano,Male,17,Southampton,V,Crew
+Aks,Mrs Leah,Female,18,Southampton,S,3
+Arnold-Franchi,Mrs Josefine,Female,18,Southampton,V,3
+Astor,Mrs Madeleine Talmage,Female,18,Cherbourg,S,1
+Badman,Miss Emily Louisa,Female,18,Southampton,S,3
+Barbara,Miss Saiide,Female,18,Cherbourg,V,3
+Brown,Miss Amelia Mary,Female,18,Southampton,S,2
+Caram,Mrs Maria Elias,Female,18,Cherbourg,V,3
+Doling,Miss Elsie,Female,18,Southampton,V,2
+Hegarty,Miss Hanora,Female,18,Queenstown,V,3
+Hiltunen,Miss Marta,Female,18,Southampton,V,2
+Ibrāhīm,Mrs Sāfiyah,Female,18,Cherbourg,S,3
+Marvin,Mrs Mary Graham Carmichael,Female,18,Southampton,S,1
+Mullin,Miss Mary (Lennon),Female,18,Queenstown,V,3
+Murphy,Miss Catherine,Female,18,Queenstown,S,3
+Nilsson,Miss Berta Olivia,Female,18,Southampton,S,3
+Pettersson,Miss Elin Natalia,Female,18,Southampton,V,3
+Riordan,Miss Hannah,Female,18,Queenstown,S,3
+Ryerson,Miss Emily Borie,Female,18,Cherbourg,S,1
+Sjöblom,Miss Anna Sofia,Female,18,Southampton,S,3
+Smith,Mrs Mary Eloise,Female,18,Cherbourg,S,1
+Taussig,Miss Ruth,Female,18,Southampton,S,1
+Turja,Miss Anna Sofia,Female,18,Southampton,S,3
+Vanderplancke,Miss Augusta Maria,Female,18,Southampton,V,3
+Al-Munà,Mr Far īd Husayn Qāsim,Male,18,Cherbourg,V,3
+Björklund,Mr Ernst Herbert,Male,18,Southampton,V,3
+Cacic,Mr Jego Grga,Male,18,Southampton,V,3
+Cohen,Mr Gurshon,Male,18,Southampton,S,3
+Deacon,Mr Percy William,Male,18,Southampton,V,2
+Dibden,Mr William,Male,18,Southampton,V,2
+Dorking,Mr Edward Arthur,Male,18,Southampton,S,3
+Edvardsson,Mr Gustaf Hjalmar,Male,18,Southampton,V,3
+Fahlstrøm,Mr Arne Joma,Male,18,Southampton,V,2
+Fillbrook,Mr Joseph Charles,Male,18,Southampton,V,2
+Fischer,Mr Eberhard Thelander,Male,18,Southampton,V,3
+Ford,Mr Edward Watson,Male,18,Southampton,V,3
+Hanna,Mr Boulos,Male,18,Cherbourg,V,3
+Klasén,Mr Klas Albin,Male,18,Southampton,V,3
+Māmā,Mr Hannā Mikā’ īl,Male,18,Cherbourg,S,3
+Marvin,Mr Daniel Warner,Male,18,Southampton,V,1
+Myhrman,Mr Pehr Fabian Oliver Malkolm,Male,18,Southampton,V,3
+Rogers,Mr Reginald Harry,Male,18,Southampton,V,2
+Rosblom,Mr Viktor Richard,Male,18,Southampton,V,3
+Sadlier,Mr Matthew,Male,18,Queenstown,V,3
+Sage,Mr Douglas Bullen,Male,18,Southampton,V,3
+Wiklund,Mr Jakob Alfred,Male,18,Southampton,V,3
+Willey,Mr Edward John,Male,18,Southampton,V,3
+Ervine,Mr. Albert George,Male,18,Belfast,V,Crew
+King,Mr. Alfred,Male,18,Southampton,V,Crew
+Burgess,Mr. Charles Reginald,Male,18,Southampton,S,Crew
+Harris,Mr. Edward,Male,18,Southampton,V,Crew
+Vine,Mr. H.,Male,18,Southampton,V,Crew
+Finch,Mr. Harry,Male,18,Southampton,V,Crew
+Lee,Mr. Henry,Male,18,Southampton,V,Crew
+Parsons,Mr. Richard,Male,18,Southampton,V,Crew
+Daniels,Mr. Sidney Edward,Male,18,Southampton,S,Crew
+Whiteley,Mr. Thomas,Male,18,Southampton,S,Crew
+Platt,Mr. W.,Male,18,Belfast,V,Crew
+Andersen-Jensen,Miss Carla Christine Nielsine,Female,19,Southampton,S,3
+Bentham,Miss Lillian W.,Female,19,Southampton,S,2
+Bishop,Mrs Helen,Female,19,Cherbourg,S,1
+Devaney,Miss Margaret Delia,Female,19,Queenstown,S,3
+Glynn,Miss Mary Agatha,Female,19,Queenstown,S,3
+Graham,Miss Margaret Edith,Female,19,Southampton,S,1
+Jabbur (Zabour),Miss Thamine,Female,19,Cherbourg,V,3
+Maioni,Miss Roberta Elizabeth Mary,Female,19,Southampton,S,1
+McNamee,Mrs Eileen,Female,19,Southampton,V,3
+Nakid,Mrs Waika,Female,19,Cherbourg,S,3
+Newsom,Miss Helen Monypeny,Female,19,Southampton,S,1
+Phillips,Miss Kate Florence,Female,19,Southampton,S,2
+Alhomäki,Mr Ilmari Rudolf,Male,19,Southampton,V,3
+Burke,Mr Jeremiah,Male,19,Queenstown,V,3
+Carbines,Mr William,Male,19,Southampton,V,2
+Cor,Mr Liudevit,Male,19,Southampton,V,3
+Crease,Mr Ernest James,Male,19,Southampton,V,3
+Dakic,Mr Branko,Male,19,Southampton,V,3
+Davies,Mr Charles Henry,Male,19,Southampton,V,2
+Foley,Mr Joseph,Male,19,Queenstown,V,3
+Fortune,Mr Charles Alexander,Male,19,Southampton,V,1
+Gaskell,Mr William Alfred,Male,19,Southampton,V,2
+Gustafsson,Mr Alfred Ossian,Male,19,Southampton,V,3
+Gustafsson,Mr Karl Gideon,Male,19,Southampton,V,3
+Hagland,Mr Konrad Mathias Reiersen,Male,19,Southampton,V,3
+Hampe,Mr Léon Jérome,Male,19,Southampton,V,3
+Johnson,Mr William Cahoone Jr.,Male,19,Southampton,V,3
+Katavelos,Mr Vasilios G.,Male,19,Cherbourg,V,3
+Kelly,Mr James,Male,19,Southampton,V,3
+Lockyer,Mr Edward Thomas,Male,19,Southampton,V,3
+McCormack,Mr Thomas Joseph,Male,19,Queenstown,V,3
+McEvoy,Mr Michael,Male,19,Queenstown,V,3
+McMahon,Mr Martin,Male,19,Queenstown,V,3
+Mellors,Mr William John,Male,19,Southampton,S,2
+Moore,Mr Leonard Charles,Male,19,Southampton,V,3
+Nicholls,Mr Joseph Charles,Male,19,Southampton,V,2
+Patchett,Mr George,Male,19,Southampton,V,3
+Pengelly,Mr Frederick William,Male,19,Southampton,V,2
+Petroff,Mr Nedialco,Male,19,Southampton,V,3
+Reed,Mr James George,Male,19,Southampton,V,3
+Sage,Mr George John,Male,19,Southampton,V,3
+Saundercock,Mr William Henry,Male,19,Southampton,V,3
+Shedid,Mr Daher,Male,19,Cherbourg,V,3
+Søholt,Mr Peter Andreas Lauritz Andersen,Male,19,Southampton,V,3
+Stoytcheff,Mr Ilia,Male,19,Southampton,V,3
+Swane,Mr George,Male,19,Southampton,V,2
+Watson,Mr Ennis Hastings,Male,19,Belfast,V,2
+Barker,Mr. Albert Vale,Male,19,Southampton,V,Crew
+Andrews,Mr. Charles Edward,Male,19,Southampton,S,Crew
+Harris,Mr. Charles William,Male,19,Southampton,V,Crew
+Perry,Mr. Edgar Lionel,Male,19,Southampton,S,Crew
+Wrapson,Mr. Frederick B.,Male,19,Southampton,V,Crew
+Roberton,Mr. George Edward,Male,19,Southampton,V,Crew
+Dean,Mr. George H.,Male,19,Southampton,V,Crew
+Pachera,Mr. Jean Baptiste Stanislas,Male,19,Southampton,V,Crew
+Longmuir,Mr. John Dickson,Male,19,Southampton,V,Crew
+Mitchell,Mr. Lawrence (Lorenzo),Male,19,Southampton,V,Crew
+Hyland,Mr. Leo James,Male,19,Southampton,S,Crew
+Cornaire,Mr. Marcel Raymond André,Male,19,Southampton,V,Crew
+Ball,Mr. Percy,Male,19,Southampton,S,Crew
+Villvarlange,Mr. Pierre Léon Gabriel,Male,19,Southampton,V,Crew
+Binstead,Mr. Walter,Male,19,Southampton,S,Crew
+Beere,Mr. William,Male,19,Southampton,V,Crew
+Dashwood,Mr. William George,Male,19,Southampton,V,Crew
+Braf,Miss Elin Ester Maria,Female,20,Southampton,V,3
+Bryhl,Miss Dagmar Jenny Ingeborg,Female,20,Southampton,S,2
+Ford,Miss Dollina Margaret,Female,20,Southampton,V,3
+Hocking,Miss Ellen,Female,20,Southampton,S,2
+Jussila,Miss Katriina,Female,20,Southampton,V,3
+Kelly,Miss Anna Katherine,Female,20,Queenstown,S,3
+Khalil,Mrs Zahie,Female,20,Cherbourg,V,3
+Mahon,Miss Bridget Delia,Female,20,Queenstown,V,3
+Oreskovic,Miss Marija,Female,20,Southampton,V,3
+Sage,Miss Stella Anne,Female,20,Southampton,V,3
+Shine,Miss Ellen,Female,20,Queenstown,V,3
+Sincock,Miss Maude,Female,20,Southampton,S,2
+Abrahamsson,Mr Abraham August Johannes,Male,20,Southampton,S,3
+Andreasson,Mr Pål Edvin,Male,20,Southampton,V,3
+Beavan,Mr William Thomas,Male,20,Southampton,V,3
+Bricoux,Mr Roger Marie,Male,20,Southampton,V,2
+Charters,Mr David,Male,20,Queenstown,V,3
+Coelho,Mr Domingos Fernandeo,Male,20,Southampton,V,3
+Cotterill,Mr Henry,Male,20,Southampton,V,2
+Foley,Mr William,Male,20,Queenstown,V,3
+Giles,Mr Frederick Edward,Male,20,Southampton,V,2
+Hickman,Mr Stanley George,Male,20,Southampton,V,2
+Ivanoff,Mr Kanio,Male,20,Southampton,V,3
+Jensen,Mr Hans Peder,Male,20,Southampton,V,3
+Lennon,Mr Denis,Male,20,Queenstown,V,3
+Lindqvist,Mr Eino William,Male,20,Southampton,S,3
+Lovell,Mr John Hall,Male,20,Southampton,V,3
+Mackay,Mr George William,Male,20,Southampton,V,3
+Nakid,Mr Sahid,Male,20,Cherbourg,S,3
+Nasr ‘Almā,Mr Mustafà,Male,20,Cherbourg,V,3
+Nassr Rizq,Mr Saade,Male,20,Cherbourg,V,3
+Nofal,Mr Mansouer,Male,20,Cherbourg,V,3
+Nourney,Mr Alfred,Male,20,Cherbourg,S,1
+Olsvigen,Mr Thor Anderson,Male,20,Southampton,V,3
+Oreskovic,Mr Luka,Male,20,Southampton,V,3
+Rafūl-Būlus,Mr Bākhūs,Male,20,Cherbourg,V,3
+Sirota,Mr Morris,Male,20,Southampton,V,3
+Slocovski,Mr Selman Francis,Male,20,Southampton,V,3
+Sunderland,Mr Victor Francis,Male,20,Southampton,S,3
+Tobin,Mr Roger,Male,20,Queenstown,V,3
+Torfa,Mr Assad,Male,20,Cherbourg,V,3
+Vendel,Mr Olof Edvin,Male,20,Southampton,V,3
+Martin,"Miss Margaret Edwina ""Mabel""",Female,20,Southampton,S,Crew
+Hebb,Mr. A.,Male,20,Southampton,S,Crew
+Harding,Mr. A.,Male,20,Southampton,V,Crew
+Mattmann,Mr. Adolf,Male,20,Southampton,V,Crew
+Peracchio,Mr. Alberto,Male,20,Southampton,V,Crew
+Perotti,Mr. Alfonso,Male,20,Southampton,V,Crew
+Burrage,Mr. Alfred,Male,20,Southampton,S,Crew
+Pugh,Mr. Alfred,Male,20,Southampton,S,Crew
+Terrell,Mr. Bertram,Male,20,Southampton,V,Crew
+Cecil,Mr. C.,Male,20,Southampton,V,Crew
+Ingram,Mr. Charles,Male,20,Southampton,V,Crew
+Shillaber,Mr. Charles,Male,20,Southampton,V,Crew
+Smith,Mr. F,Male,20,Southampton,V,Crew
+Sheath,Mr. Frederick,Male,20,Southampton,S,Crew
+King,Mr. G.,Male,20,Southampton,V,Crew
+De Marsico,Mr. Giovanni,Male,20,Southampton,V,Crew
+Stocker,Mr. Henry Dorey,Male,20,Southampton,V,Crew
+Billow,Mr. J.,Male,20,Southampton,V,Crew
+Marriott,Mr. J.W.,Male,20,Southampton,V,Crew
+Monrós,Mr. Joan Xavier,Male,20,Southampton,V,Crew
+Read,Mr. Joseph,Male,20,Southampton,V,Crew
+Dornier,Mr. Louis Auguste,Male,20,Southampton,V,Crew
+Desvernine,Mr. Louis Gabriel,Male,20,Southampton,V,Crew
+Desvernine,Mr. Louis Gabriel,Male,20,Southampton,V,Crew
+Zanetti,Mr. Minio,Male,20,Southampton,V,Crew
+Ahier,Mr. Percy Snowden,Male,20,Southampton,V,Crew
+Jones,Mr. Reginald V.,Male,20,Southampton,V,Crew
+Holloway,Mr. Sidney,Male,20,Southampton,V,Crew
+Mullen,Mr. Thomas A.,Male,20,Southampton,V,Crew
+Preston,Mr. Thomas Charles Alfred,Male,20,Southampton,V,Crew
+Fredricks,Mr. Walter Francis,Male,20,Southampton,S,Crew
+Bunnell,Mr. Wilfred,Male,20,Belfast,V,Crew
+Ings,Mr. William Ernest,Male,20,Southampton,V,Crew
+Bricoux,Roger Marie,Male,20,Southampton,V,Crew
+Cacic,Miss Manda,Female,21,Southampton,V,3
+Donohoe,Miss Bridget,Female,21,Queenstown,V,3
+Harder,Mrs Dorothy,Female,21,Cherbourg,S,1
+Harknett,Miss Alice Phoebe,Female,21,Southampton,V,3
+Henry,Miss Bridget Delia,Female,21,Queenstown,V,3
+Jussila,Miss Mari Aina,Female,21,Southampton,V,3
+Longley,Miss Gretchen Fiske,Female,21,Cherbourg,S,1
+Madigan,Miss Margaret,Female,21,Queenstown,S,3
+Mullin,Miss Catherine,Female,21,Queenstown,S,3
+Naughton,Miss Hannah,Female,21,Queenstown,V,3
+O’Sullivan,Miss Bridget Mary,Female,21,Queenstown,V,3
+Phillips,Miss Alice Frances Louisa,Female,21,Southampton,S,2
+Rugg,Miss Emily,Female,21,Southampton,S,2
+Ryerson,Miss Susan Parker “Suzette”,Female,21,Cherbourg,S,1
+Salkjelsvik,Miss Anna Kristine,Female,21,Southampton,S,3
+Willard,Miss Constance,Female,21,Southampton,S,1
+Birkeland,Mr Hans Martin Monsen,Male,21,Southampton,V,3
+Buckley,Mr Daniel,Male,21,Queenstown,S,3
+Butrus-Ka’W ī,Mr Tannūs,Male,21,Cherbourg,V,3
+Campbell,Mr William Henry,Male,21,Belfast,V,2
+Canavan,Mr Patrick,Male,21,Queenstown,V,3
+Cann,Mr Ernest,Male,21,Southampton,V,3
+Chronopoulos,Mr Dimitrios M.,Male,21,Cherbourg,V,3
+Cunningham,Mr Alfred Fleming,Male,21,Belfast,V,2
+Davies,Mr John,Male,21,Southampton,V,3
+Enander,Mr Ingvar,Male,21,Southampton,V,2
+Garfirth,Mr John,Male,21,Southampton,V,3
+Gerios Thamah,Mr Assaf,Male,21,Cherbourg,V,3
+Giles,Mr Edgar,Male,21,Southampton,V,2
+Hansen,Mr Henry Damsgaard,Male,21,Southampton,V,3
+Hood,Mr Ambrose Jr,Male,21,Southampton,V,2
+Hume,Mr John Law,Male,21,Southampton,V,2
+Jansson,Mr Carl Olof,Male,21,Southampton,S,3
+Jardim,Mr José Neto,Male,21,Southampton,V,3
+Kalvik,Mr Johannes Halvorsen,Male,21,Southampton,V,3
+Karlsson,Mr Einar Gervasius,Male,21,Southampton,S,3
+Linehan,Mr Michael,Male,21,Queenstown,V,3
+Midtsjø,Mr Karl Albert,Male,21,Southampton,S,3
+Minkoff,Mr Lazar,Male,21,Southampton,V,3
+Nilsson,Mr August Ferdinand,Male,21,Southampton,V,3
+Nosworthy,Mr Richard Cater,Male,21,Southampton,V,3
+O’Brien,Mr Denis,Male,21,Queenstown,V,3
+O’Keefe,Mr Patrick,Male,21,Queenstown,S,3
+Parkes,Mr Francis,Male,21,Belfast,V,2
+Pasic,Mr Jakob,Male,21,Southampton,V,3
+Pekoniemi,Mr Edvard,Male,21,Southampton,V,3
+Reynolds,Mr Harold,Male,21,Southampton,V,3
+Sap,Mr Julius,Male,21,Southampton,S,3
+Schmidt,Mr Augustus,Male,21,Southampton,V,2
+Sivola,Mr Antti Wilhelm,Male,21,Southampton,V,3
+Stanley,Mr Edward Roland,Male,21,Southampton,V,3
+Vovk,Mr Janko,Male,21,Southampton,V,3
+White,Mr Richard Frasar,Male,21,Southampton,V,1
+Wiklund,Mr Karl Johan,Male,21,Southampton,V,3
+Williams,Mr Richard Norris II,Male,21,Cherbourg,S,1
+Windeløv,Mr Einar,Male,21,Southampton,V,3
+Hume,John Law,Male,21,Southampton,V,Crew
+Pedrini,Mr. Alessandro,Male,21,Southampton,V,Crew
+Cunningham,Mr. Alfred Fleming,Male,21,Belfast,V,Crew
+Vicat,Mr. Alphonse Jean Eugene,Male,21,Southampton,V,Crew
+McMicken,Mr. Benjamin Tucker,Male,21,Belfast,V,Crew
+Lacey,Mr. Bert W.,Male,21,Southampton,V,Crew
+Noss,Mr. Bertram Arthur,Male,21,Southampton,V,Crew
+Biggs,Mr. Edward Charles,Male,21,Southampton,V,Crew
+Ratti,Mr. Enrico,Male,21,Southampton,V,Crew
+Abbott,Mr. Ernest Owen,Male,21,Southampton,V,Crew
+Blann,Mr. Eustace Horatius,Male,21,Southampton,V,Crew
+Snowberger,Mr. Eustace Philip,Male,21,Southampton,S,Crew
+Parkes,"Mr. Francis ""Frank""",Male,21,Belfast,V,Crew
+Hartnell,Mr. Frederick,Male,21,Southampton,S,Crew
+Combes,Mr. George,Male,21,Southampton,S,Crew
+Levett,Mr. George Alfred,Male,21,Belfast,V,Crew
+Prior,Mr. Harold John,Male,21,Belfast,S,Crew
+Coe,Mr. Harry,Male,21,Southampton,V,Crew
+Bolhuis,"Mr. Hendrik ""Hennie""",Male,21,Southampton,V,Crew
+Ingrouille,Mr. Henry,Male,21,Southampton,V,Crew
+Bulley,Mr. Henry Ashburnham,Male,21,Southampton,V,Crew
+Crimmins,Mr. James,Male,21,Southampton,S,Crew
+Scott,Mr. John,Male,21,Southampton,V,Crew
+Knight,Mr. Leonard George,Male,21,Southampton,V,Crew
+Hoare,Mr. Leonard James,Male,21,Belfast,V,Crew
+Morrell,Mr. R. (Albert White),Male,21,Southampton,V,Crew
+Moore,Mr. Ralph,Male,21,Southampton,V,Crew
+Hardwick,Mr. Reginald,Male,21,Southampton,S,Crew
+Kelland,Mr. Thomas,Male,21,Southampton,V,Crew
+Taylor,Mr. William,Male,21,Southampton,V,Crew
+Campbell,Mr. William Henry,Male,21,Belfast,V,Crew
+Beane,Mrs Ethel,Female,22,Southampton,S,2
+Bowerman,Miss Elsie Edith,Female,22,Southampton,S,1
+Bradley,Miss Bridget Delia,Female,22,Queenstown,S,3
+Buckley,Miss Katherine,Female,22,Queenstown,V,3
+Canavan,Miss Mary,Female,22,Queenstown,V,3
+Cleaver,Miss Alice Catherine,Female,22,Southampton,S,1
+Cook,Mrs Selena,Female,22,Southampton,S,2
+Dahlberg,Miss Gerda Ulrika,Female,22,Southampton,V,3
+Dyker,Mrs Anna Elisabeth Judith,Female,22,Southampton,S,3
+Fleming,Miss Honor,Female,22,Queenstown,V,3
+Frölicher,Miss Hedwig Margaritha,Female,22,Cherbourg,S,1
+Gibson,Miss Dorothy Winifred,Female,22,Cherbourg,S,1
+Hellström,Miss Hilda Maria,Female,22,Southampton,S,3
+Hirvonen,Mrs Helga Elisabeth Lindqvist,Female,22,Southampton,S,3
+Kelly,Miss Mary,Female,22,Queenstown,S,3
+Kink,Miss Maria,Female,22,Southampton,V,3
+Landergren,Miss Aurora Adelia,Female,22,Southampton,S,3
+Laroche,Mrs Juliette Marie Louise,Female,22,Cherbourg,S,2
+McGovern,Ms Mary,Female,22,Queenstown,S,3
+Muslamān ī,Mrs Fat īmah Muhammad,Female,22,Cherbourg,S,3
+Nysten,Miss Anna Sofia,Female,22,Southampton,S,3
+Öhman,Miss Velin,Female,22,Southampton,S,3
+Østby,Miss Helen Ragnhild,Female,22,Southampton,S,1
+Pears,Mrs Edith,Female,22,Southampton,S,1
+Peñasco Y Castellana,Mrs Maria Josefa Perezde Soto y Vallejo,Female,22,Cherbourg,S,1
+Riihivuori,Miss Susanna Juhantytär,Female,22,Southampton,V,3
+Strandberg,Miss Ida Sofia,Female,22,Southampton,V,3
+Baimbrigge,Mr Charles Robert,Male,22,Southampton,V,2
+Barton,Mr David John,Male,22,Southampton,V,3
+Berglund,Mr Karl Ivar Sven,Male,22,Southampton,V,3
+Braund,Mr Owen Harris,Male,22,Southampton,V,3
+Brobäck,Mr Karl Rudolf,Male,22,Southampton,V,3
+Davies,Mr Evan,Male,22,Southampton,V,3
+Dennis,Mr Samuel,Male,22,Southampton,V,3
+Dougherty,Mr William John,Male,22,Queenstown,V,3
+Elias Nasrallah,Mr Tannous,Male,22,Cherbourg,V,3
+Ford,Mr Arthur,Male,22,Southampton,V,3
+Gilinski,Mr Eliezer,Male,22,Southampton,V,3
+Horgan,Mr John,Male,22,Queenstown,V,3
+Jefferys,Mr Ernest Wilfred,Male,22,Southampton,V,2
+Johansson,Mr Erik,Male,22,Southampton,V,3
+Karlsson,Mr Nils August,Male,22,Southampton,V,3
+Kiernan,Mr Philip,Male,22,Queenstown,V,3
+Kilgannon,Mr Thomas,Male,22,Queenstown,V,3
+Larsson,Mr Edvard,Male,22,Southampton,V,3
+Mäenpää,Mr Matti Alexanteri,Male,22,Southampton,V,3
+Meehan,Mr John,Male,22,Queenstown,V,3
+Murdlin,Mr Joseph,Male,22,Southampton,V,3
+Naidenoff,Mr Penko,Male,22,Southampton,V,3
+Nenkov,Mr Hristo,Male,22,Southampton,V,3
+Oxenham,Mr Percy Thomas,Male,22,Southampton,S,2
+Payne,Mr Vivian Ponsonby,Male,22,Southampton,V,1
+Perkin,Mr John Henry,Male,22,Southampton,V,3
+Righini,Mr Sante,Male,22,Cherbourg,V,1
+Scanlan,Mr James,Male,22,Queenstown,V,3
+Shorney,Mr Charles Joseph,Male,22,Southampton,V,3
+Sirayanian,Mr Orsen,Male,22,Cherbourg,V,3
+Tomlin,Mr Ernest Portage,Male,22,Southampton,V,3
+Vartanian,Mr David,Male,22,Cherbourg,V,3
+Waelens,Mr Achille,Male,22,Southampton,V,3
+Zakarian,Mr Mapriededer,Male,22,Cherbourg,V,3
+Zenni,Mr Philip,Male,22,Cherbourg,S,3
+Dore,Mr. A.,Male,22,Southampton,S,Crew
+Rigozzi,Mr. Abele,Male,22,Southampton,V,Crew
+Hunt,Mr. Albert,Male,22,Southampton,S,Crew
+Eagle,Mr. Alfred James,Male,22,Southampton,V,Crew
+Leader,Mr. Archie,Male,22,Southampton,V,Crew
+Copperthwaite,Mr. B.,Male,22,Southampton,V,Crew
+Bernardi,Mr. Battista,Male,22,Southampton,V,Crew
+Gosling,Mr. Bertram James,Male,22,Southampton,V,Crew
+Pryce,Mr. Charles William,Male,22,Southampton,V,Crew
+Hogue,Mr. E.,Male,22,Southampton,V,Crew
+Prentice,Mr. Frank Winnold,Male,22,Belfast,S,Crew
+Doel,Mr. Frederick,Male,22,Southampton,S,Crew
+Kemish,Mr. George,Male,22,Southampton,S,Crew
+Ede,Mr. George B.,Male,22,Southampton,V,Crew
+Ayling,Mr. George Edwin,Male,22,Southampton,V,Crew
+Cavell,Mr. George Henry,Male,22,Southampton,S,Crew
+Ford,Mr. H.,Male,22,Southampton,V,Crew
+Bride,Mr. Harold Sydney,Male,22,Belfast,S,Crew
+Smither,Mr. Harry James,Male,22,Southampton,V,Crew
+Hatch,Mr. Hugh,Male,22,Southampton,V,Crew
+Norris,Mr. James,Male,22,Southampton,V,Crew
+Avery,Mr. James Frank,Male,22,Southampton,S,Crew
+Bevis,Mr. Joseph Henry,Male,22,Southampton,V,Crew
+Perkins,Mr. Laurence Alexander,Male,22,Southampton,V,Crew
+Debreucq,Mr. Maurice Emile Victor,Male,22,Southampton,V,Crew
+Blake,Mr. Percival Albert,Male,22,Southampton,S,Crew
+Halford,Mr. Richard,Male,22,Southampton,S,Crew
+Proudfoot,Mr. Richard Royston,Male,22,Southampton,V,Crew
+Ricaldone,Mr. Rinaldo Renato,Male,22,Southampton,V,Crew
+Butt,Mr. Robert Henry,Male,22,Southampton,V,Crew
+Urbini,Mr. Roberto,Male,22,Southampton,V,Crew
+Hiscock,Mr. S.,Male,22,Southampton,V,Crew
+Doughty,Mr. W.,Male,22,Southampton,V,Crew
+McInytre,Mr. William,Male,22,Southampton,S,Crew
+McReynolds,Mr. William,Male,22,Belfast,V,Crew
+Snape,Mrs. Lucy Violet,Female,22,Southampton,V,Crew
+Connolly,Miss Catherine,Female,23,Queenstown,S,3
+Earnshaw,Mrs Olive,Female,23,Cherbourg,S,1
+Fortune,Miss Mabel Helen,Female,23,Southampton,S,1
+Hämäläinen,Mrs Anna,Female,23,Southampton,S,2
+Heininen,Miss Wendla Maria,Female,23,Southampton,V,3
+Herman,Miss Alice,Female,23,Southampton,S,2
+Herman,Miss Kate,Female,23,Southampton,S,2
+Jerwan,Mrs Marie Marthe,Female,23,Cherbourg,S,2
+Lundin,Miss Olga Elida,Female,23,Southampton,S,3
+Mockler,Miss Ellen Mary,Female,23,Queenstown,S,3
+Newell,Miss Marjorie Anne,Female,23,Cherbourg,S,1
+Oreskovic,Miss Jelka,Female,23,Southampton,V,3
+Snyder,Mrs Nelle,Female,23,Southampton,S,1
+Alexander,Mr William Albert,Male,23,Southampton,V,3
+Asplund,Mr Johan Charles,Male,23,Southampton,S,3
+Assam,Mr Ali,Male,23,Southampton,V,3
+Augustsson,Mr Albert,Male,23,Southampton,V,3
+Batoshev,Mr Hristo Lalev,Male,23,Southampton,V,3
+Berriman,Mr William John,Male,23,Southampton,V,2
+Dyker,Mr Adolf Fredrik,Male,23,Southampton,V,3
+Giglio,Mr Victor Gaitan Andrea,Male,23,Cherbourg,V,1
+Greenfield,Mr William Bertram,Male,23,Cherbourg,S,1
+Guest,Mr Robert,Male,23,Southampton,V,3
+Hocking,Mr Richard George,Male,23,Southampton,V,2
+Jonkoff,Mr Lalio,Male,23,Southampton,V,3
+Keane,Mr Andrew,Male,23,Queenstown,V,3
+Krins,Mr Georges Alexandre,Male,23,Southampton,V,2
+Lam,Mr Len,Male,23,Southampton,V,3
+Marinko,Mr Dmitri,Male,23,Southampton,V,3
+Matthews,Mr William John,Male,23,Southampton,V,2
+Miles,Mr Frank,Male,23,Southampton,V,3
+Mitkoff,Mr Mito,Male,23,Southampton,V,3
+O’Connor,Mr Patrick,Male,23,Queenstown,V,3
+Ödahl,Mr Nils Martin,Male,23,Southampton,V,3
+Pain,Dr Alfred,Male,23,Southampton,V,2
+Richard,Mr Emile Phillippe,Male,23,Cherbourg,V,2
+Spector,Mr Woolf,Male,23,Southampton,V,3
+Staneff,Mr Ivan,Male,23,Southampton,V,3
+Todoroff,Mr Lalio,Male,23,Southampton,V,3
+Troupiansky,Mr Moses Aaron,Male,23,Southampton,V,2
+Van Melckebeke,Mr Philemon,Male,23,Southampton,V,3
+Ware,Mr William Jeffery,Male,23,Southampton,V,2
+Wazli,Mr Yousif Ahmed,Male,23,Cherbourg,V,3
+Williams,Mr Charles Eugene,Male,23,Southampton,S,2
+Krins,Georges Alexandre,Male,23,Southampton,V,Crew
+Rotta,Mr. Angelo Mario,Male,23,Southampton,V,Crew
+Jewell,Mr. Archie,Male,23,Belfast,S,Crew
+McMicken,Mr. Arthur,Male,23,Belfast,S,Crew
+Priest,Mr. Arthur J.,Male,23,Southampton,S,Crew
+May Jr.,Mr. Arthur William,Male,23,Southampton,V,Crew
+Light,Mr. C.,Male,23,Southampton,V,Crew
+Light,Mr. Charles,Male,23,Southampton,V,Crew
+Savage,Mr. Charles J.,Male,23,Southampton,S,Crew
+Ricks,Mr. Cyril G.,Male,23,Southampton,V,Crew
+Testoni,Mr. Ercole,Male,23,Southampton,V,Crew
+Elliott,Mr. Everett Edward,Male,23,Southampton,V,Crew
+Bertoldo,Mr. Fioravante Giuseppe,Male,23,Southampton,V,Crew
+Tamlyn,Mr. Frederick,Male,23,Southampton,V,Crew
+Hallett,Mr. George,Male,23,Southampton,V,Crew
+Monteverdi,Mr. Giovanni,Male,23,Southampton,V,Crew
+Crabb,Mr. H.,Male,23,Southampton,V,Crew
+Phillimore,Mr. Harold Charles William,Male,23,Belfast,S,Crew
+Rudd,Mr. Henry,Male,23,Southampton,V,Crew
+Perry,Mr. Henry Frederick,Male,23,Southampton,V,Crew
+Mabey,Mr. J.,Male,23,Southampton,V,Crew
+Butterworth,Mr. John,Male,23,Southampton,V,Crew
+Prideaux,"Mr. John Arthur ""Jack""",Male,23,Belfast,V,Crew
+Dawson,Mr. Joseph[17],Male,23,Southampton,V,Crew
+Saunders,Mr. W.,Male,23,Southampton,V,Crew
+Kelly,Mr. William,Male,23,Belfast,V,Crew
+McAndrews,Mr. William,Male,23,Southampton,V,Crew
+Morris,Mr. William Edward,Male,23,Southampton,V,Crew
+White,Mr. William George,Male,23,Southampton,S,Crew
+Moyes,Mr. William Young,Male,23,Belfast,V,Crew
+Aubart,Mme. Léontine Pauline “Ninette”,Female,24,Cherbourg,S,1
+Baclini,Mrs Latifa,Female,24,Cherbourg,S,3
+Del Carlo,Mrs Argene,Female,24,Cherbourg,S,2
+Dropkin,Miss Jennie,Female,24,Southampton,V,3
+Fortune,Miss Alice Elizabeth,Female,24,Southampton,S,1
+Haas,Miss Aloisia,Female,24,Southampton,V,3
+Hakkarainen,Mrs Elin Matilda,Female,24,Southampton,S,3
+Hays,Miss Margaret Bechstein,Female,24,Cherbourg,S,1
+Jacobsohn,Mrs Amy Frances Christy,Female,24,Southampton,S,2
+Kantor,Mrs Miriam,Female,24,Southampton,S,2
+Mallet,Mrs Antonine Marie,Female,24,Cherbourg,S,2
+Mayné,Mlle Berthe Antonine,Female,24,Cherbourg,S,1
+McCarthy,Miss Catherine,Female,24,Queenstown,S,3
+Mubārik,Mrs Am īnah,Female,24,Cherbourg,S,3
+Richards,Mrs Emily,Female,24,Southampton,S,2
+Sägesser,Mlle Emma,Female,24,Cherbourg,S,1
+Sandström,Mrs Agnes Charlotta,Female,24,Southampton,S,3
+Stanley,Miss Amy Zillah Elsie,Female,24,Southampton,S,3
+Yūsuf,Mrs Kātr īn,Female,24,Cherbourg,S,3
+Yvois,Miss Henriette,Female,24,Southampton,V,2
+Ali,Mr Ahmed,Male,24,Southampton,V,3
+Aronsson,Mr Ernst Axel Algot,Male,24,Southampton,V,3
+Baxter,Mr Quigg Edmond,Male,24,Cherbourg,V,1
+Birnbaum,Mr Jakob,Male,24,Cherbourg,V,1
+Brailey,Mr William Theodore Ronald,Male,24,Southampton,V,2
+Carlsson,Mr Carl Robert,Male,24,Southampton,V,3
+Celotti,Mr Francesco,Male,24,Southampton,V,3
+Colbert,Mr Patrick,Male,24,Queenstown,V,3
+Coleff,Mr Satio,Male,24,Southampton,V,3
+Davies,Mr Alfred James,Male,24,Southampton,V,3
+Duquemin,Mr Joseph Pierre,Male,24,Southampton,S,3
+Giles,Mr Ralph,Male,24,Southampton,V,2
+Gill,Mr John,Male,24,Southampton,V,2
+Hee,Mr Ling,Male,24,Southampton,S,3
+Hickman,Mr Leonard Mark,Male,24,Southampton,V,2
+Jefferys,Mr Clifford Thomas,Male,24,Southampton,V,2
+Kennedy,Mr John,Male,24,Queenstown,V,3
+Lievens,Mr René Aimé,Male,24,Southampton,V,3
+Madsen,Mr Fridtjof Arne,Male,24,Southampton,S,3
+McCoy,Mr Bernard,Male,24,Queenstown,S,3
+Mineff,Mr Ivan,Male,24,Southampton,V,3
+Peduzzi,Mr Giuseppe,Male,24,Southampton,V,3
+Peñasco Y Castellana,Mr Victor,Male,24,Cherbourg,V,1
+Petersen,Mr Marius,Male,24,Southampton,V,3
+Pokrnic,Mr Tome,Male,24,Southampton,V,3
+Ponesell,Mr Martin,Male,24,Southampton,V,2
+Ryan,Mr Edward,Male,24,Queenstown,S,3
+Salander,Mr Karl Johan,Male,24,Southampton,V,3
+Shaughnessy,Mr Patrick,Male,24,Queenstown,V,3
+Smith,Mr Lucian Philip,Male,24,Cherbourg,V,1
+Snyder,Mr John Pillsbury,Male,24,Southampton,S,1
+Svensson,Mr Olof,Male,24,Southampton,V,3
+Wheeler,Mr Edwin Charles,Male,24,Southampton,V,2
+Jessop,Miss Violet Constance,Female,24,Southampton,S,Crew
+Shiers,Mr. Alfred,Male,24,Southampton,S,Crew
+Geer,Mr. Alfred Ernest,Male,24,Southampton,V,Crew
+Pearce,Mr. Alfred Ernest,Male,24,Southampton,V,Crew
+Evans,Mr. Alfred Frank,Male,24,Southampton,S,Crew
+Head,Mr. Arthur,Male,24,Southampton,V,Crew
+Ward,Mr. Arthur,Male,24,Southampton,V,Crew
+Boughton,Mr. B.,Male,24,Southampton,V,Crew
+Allen,Mr. Ernest Frederick,Male,24,Southampton,S,Crew
+Bendell,Mr. F.,Male,24,Southampton,V,Crew
+Edbrooke,Mr. F.,Male,24,Southampton,V,Crew
+Evans,Mr. Frank Oliver,Male,24,Southampton,S,Crew
+Fleet,Mr. Frederick,Male,24,Belfast,S,Crew
+Wright,Mr. Frederick,Male,24,Southampton,V,Crew
+Kearl,Mr. G.,Male,24,Southampton,V,Crew
+Gumery,Mr. George,Male,24,Southampton,V,Crew
+Symons,Mr. George Thomas Macdonald,Male,24,Southampton,S,Crew
+Beauchamp,Mr. George William,Male,24,Southampton,S,Crew
+Jouannault,Mr. Georges Jules,Male,24,Southampton,V,Crew
+Grosclaude,Mr. Gérald,Male,24,Southampton,V,Crew
+Sesia,Mr. Giacomo,Male,24,Southampton,V,Crew
+Saccaggi,Mr. Giovanni Giuseppe Emilio,Male,24,Southampton,V,Crew
+Blackman,Mr. H.,Male,24,Southampton,V,Crew
+Dyer,Mr. Henry Ryland,Male,24,Southampton,V,Crew
+Sartori,Mr. Lazar,Male,24,Southampton,V,Crew
+Middleton,Mr. M.V.,Male,24,Southampton,V,Crew
+Baines,Mr. Richard,Male,24,Southampton,V,Crew
+Weatherston,Mr. Thomas,Male,24,Belfast,V,Crew
+Banfi,Mr. Ugo,Male,24,Southampton,V,Crew
+Pusey,Mr. William Robert Holland,Male,24,Southampton,S,Crew
+Cherrett,Mr. William Victor,Male,24,Southampton,V,Crew
+Moody,"Sub-Lieutenant James Paul, RNR",Male,24,Belfast,V,Crew
+Brailey,Theodore Ronald,Male,24,Southampton,V,Crew
+Allison,Mrs Bessie Waldo,Female,25,Southampton,V,1
+Cavendish,Mrs Julia Florence,Female,25,Southampton,S,1
+Christy,Miss Rachel Juli Cohen,Female,25,Southampton,S,2
+Ilmakangas,Miss Pieta Sofia,Female,25,Southampton,V,3
+Lindahl,Miss Agda Thorilda Viktoria,Female,25,Southampton,V,3
+Meyer,Mrs Leila,Female,25,Cherbourg,S,1
+Mulvihill,Miss Bridget Elizabeth,Female,25,Queenstown,S,3
+Murphy,Miss Margaret Jane,Female,25,Queenstown,S,3
+O’Dwyer,Miss Ellen,Female,25,Queenstown,S,3
+Shelley,Mrs Imanita Parrish,Female,25,Southampton,S,2
+Abelseth,Mr Olaus Jørgensen,Male,25,Southampton,S,3
+Ali,Mr William,Male,25,Southampton,V,3
+Andrew,Mr Frank Thomas,Male,25,Southampton,V,2
+Arnold-Franchi,Mr Josef,Male,25,Southampton,V,3
+Bishop,Mr Dickinson H.,Male,25,Cherbourg,S,1
+Botsford,Mr William Hull,Male,25,Southampton,V,2
+Bryhl,Mr Kurt Arnold Gottfrid,Male,25,Southampton,V,2
+Butler,Mr Reginald Fenton,Male,25,Southampton,V,2
+Collett,Mr Sidney Clarence Stuart,Male,25,Southampton,S,2
+Dean,Mr Bertram Frank,Male,25,Southampton,V,3
+Delalic,Mr Redjo,Male,25,Southampton,V,3
+Denbuoy,Mr Albert Joseph,Male,25,Southampton,V,2
+Eitemiller,Mr George Floyd,Male,25,Southampton,V,2
+Farrell,Mr James,Male,25,Queenstown,V,3
+Harder,Mr George Achilles,Male,25,Cherbourg,S,1
+Jonsson,Mr Carl,Male,25,Southampton,S,3
+Khalil,Mr Betros,Male,25,Cherbourg,V,3
+Kiernan,Mr John Joseph,Male,25,Queenstown,V,3
+Krekorian,Mr Neshan,Male,25,Cherbourg,S,3
+Laroche,Mr Joseph Philippe Lemercier,Male,25,Cherbourg,V,2
+Leyson,Mr Robert William Norman,Male,25,Southampton,V,2
+Livshin,Mr David,Male,25,Southampton,S,3
+Malachard,Mr Jean-Noël,Male,25,Cherbourg,V,2
+Mardirosian,Mr Sarkis,Male,25,Cherbourg,V,3
+Peltomäki,Mr Nikolai Johannes,Male,25,Southampton,V,3
+Persson,Mr Ernst Ulrik,Male,25,Southampton,S,3
+Pettersson,Mr Johan Emil,Male,25,Southampton,V,3
+Sobey,Mr Samuel James Hayden,Male,25,Southampton,V,2
+Stokes,Mr Philip Joseph,Male,25,Southampton,V,2
+Sutehall,Mr Henry Jr,Male,25,Southampton,V,3
+Tenglin,Mr Gunnar Isidor,Male,25,Southampton,S,3
+Törnquist,Mr William Henry,Male,25,Southampton,S,3
+Totevski,Mr Hristo Danchev,Male,25,Southampton,V,3
+Chaboisson,Mr. Adrien Finnin,Male,25,Southampton,V,Crew
+Curtis,Mr. Arthur,Male,25,Southampton,V,Crew
+Lawrence,Mr. Arthur,Male,25,Belfast,V,Crew
+Jensen,Mr. Charles Valdemar,Male,25,Southampton,V,Crew
+Campbell,Mr. Donald S.,Male,25,Southampton,V,Crew
+Self,Mr. Edward,Male,25,Southampton,S,Crew
+Wateridge,Mr. Edward Lewis,Male,25,Southampton,V,Crew
+Petty,Mr. Edwin Henry,Male,25,Southampton,V,Crew
+Hamilton,Mr. Ernest,Male,25,Belfast,V,Crew
+Dymond,Mr. Frank,Male,25,Southampton,S,Crew
+Thresher,Mr. George,Male,25,Southampton,S,Crew
+Salussolia,Mr. Giovanni,Male,25,Southampton,V,Crew
+Johnson Thorne,Mr. Harry,Male,25,Southampton,V,Crew
+Neal,Mr. Henry,Male,25,Southampton,S,Crew
+Street,Mr. Henry Albert,Male,25,Southampton,S,Crew
+Brooks,Mr. J.,Male,25,Southampton,V,Crew
+Diaper,Mr. J.,Male,25,Southampton,S,Crew
+Cooper,Mr. James,Male,25,Southampton,V,Crew
+Hill,Mr. James,Male,25,Southampton,V,Crew
+Taylor,Mr. James,Male,25,Southampton,S,Crew
+McGough,Mr. James R.,Male,25,Southampton,S,Crew
+Brown,Mr. John,Male,25,Southampton,V,Crew
+Chorley,Mr. John,Male,25,Southampton,V,Crew
+O'Connor,Mr. John,Male,25,Southampton,S,Crew
+Podesta,Mr. John,Male,25,Southampton,S,Crew
+Charman,Mr. John,Male,25,Southampton,V,Crew
+Phillips,"Mr. John George ""Jack""",Male,25,Belfast,V,Crew
+Rice,Mr. John Reginald,Male,25,Southampton,V,Crew
+Rice,Mr. John Reginald,Male,25,Southampton,V,Crew
+Brown,Mr. Joseph James,Male,25,Southampton,V,Crew
+Maskell,Mr. L.A.,Male,25,Southampton,V,Crew
+Conway,Mr. P.W.,Male,25,Belfast,V,Crew
+Maugé,Mr. Paul Achille Maurice Germain,Male,25,Southampton,S,Crew
+Sullivan,Mr. S.,Male,25,Southampton,V,Crew
+Sedunary,Mr. Sidney Francis,Male,25,Southampton,V,Crew
+Barton,Mr. Sidney John,Male,25,Southampton,V,Crew
+Mayzes,Mr. Thomas,Male,25,Southampton,S,Crew
+Dillon,Mr. Thomas Patrick,Male,25,Southampton,S,Crew
+Lucas,Mr. William A.,Male,25,Southampton,S,Crew
+Pitfield,Mr. William James,Male,25,Southampton,V,Crew
+Barber,Miss Ellen Mary,Female,26,Southampton,S,1
+Barry,Miss Julia,Female,26,Queenstown,V,3
+Clark,Mrs Virginia Estelle,Female,26,Cherbourg,S,1
+Heikkinen,Miss Laina,Female,26,Southampton,V,3
+Howard,Miss May Elizabeth,Female,26,Southampton,S,3
+Jermyn,Miss Annie Jane,Female,26,Queenstown,S,3
+Johnson,Mrs Elisabeth Vilhelmina,Female,26,Southampton,S,3
+Kink-Heilmann,Mrs Luise,Female,26,Southampton,S,3
+Lobb,Mrs Cordelia K.,Female,26,Southampton,V,3
+McCoy,Miss Alice,Female,26,Queenstown,S,3
+Nilsson,Miss Helmina Josefina,Female,26,Southampton,S,3
+O’Brien,Mrs Johanna,Female,26,Queenstown,V,3
+Peacock,Mrs Edith,Female,26,Southampton,V,3
+Peters,Miss Catherine,Female,26,Queenstown,V,3
+Turpin,Mrs Dorothy Ann,Female,26,Southampton,V,2
+Wright,Miss Marion,Female,26,Southampton,S,2
+Ab ī-Al-Munà,Mr Nās īf Qāsim,Male,26,Cherbourg,S,3
+Adams,Mr John,Male,26,Southampton,V,3
+Andersson,Mr Johan Samuel,Male,26,Southampton,V,3
+Angheloff,Mr Minko,Male,26,Southampton,V,3
+Balkic,Mr Cerin,Male,26,Southampton,V,3
+Behr,Mr Karl Howell,Male,26,Cherbourg,S,1
+Bengtsson,Mr Johan Viktor,Male,26,Southampton,V,3
+Bostandyeff,Mr Guentcho,Male,26,Southampton,V,3
+Bowen,Mr David John “Dai”,Male,26,Southampton,V,3
+Caldwell,Mr Albert Francis,Male,26,Southampton,S,2
+Chronopoulos,Mr Apostolos M.,Male,26,Cherbourg,V,3
+Dennis,Mr William,Male,26,Southampton,V,3
+Gavey,Mr Laurence,Male,26,Southampton,V,2
+Hansen,Mr Henrik Juul,Male,26,Southampton,V,3
+Johansson Palmquist,Mr Oskar Leander,Male,26,Southampton,S,3
+Kink,Mr Vincenz,Male,26,Southampton,V,3
+Kutscher (Lithman),Mr Simon,Male,26,Southampton,V,3
+Lester,Mr James,Male,26,Southampton,V,3
+Nesson,Mr Israel,Male,26,Southampton,V,2
+Padron Manent,Mr Julian,Male,26,Cherbourg,S,2
+Smyth,Mr Thomas,Male,26,Queenstown,V,3
+Yousseff (Abi Saab),Mr Gerios,Male,26,Cherbourg,V,3
+Cotton,Mr. A.,Male,26,Southampton,V,Crew
+Derrett,Mr. Albert,Male,26,Belfast,V,Crew
+Fryer,Mr. Albert Ernest,Male,26,Southampton,S,Crew
+Rous,Mr. Arthur John,Male,26,Southampton,V,Crew
+Ashcroft,Mr. Austin Aloysius,Male,26,Southampton,V,Crew
+Saunders,Mr. D. E.,Male,26,Southampton,V,Crew
+Beux,Mr. David,Male,26,Southampton,V,Crew
+Stone,Mr. Edmond J.,Male,26,Southampton,V,Crew
+Coy,Mr. Francis Ernest George,Male,26,Southampton,V,Crew
+Allen,Mr. George,Male,26,Southampton,V,Crew
+Aspeslagh,Mr. Georges,Male,26,Southampton,V,Crew
+Cooper,Mr. Harry,Male,26,Southampton,V,Crew
+Marks,Mr. J.,Male,26,Southampton,V,Crew
+Wyeth,Mr. James Robert,Male,26,Southampton,V,Crew
+Blument,Mr. Jean Baptiste,Male,26,Southampton,V,Crew
+Hutchinson,Mr. John Hall,Male,26,Belfast,V,Crew
+Zarracchi,Mr. L.,Male,26,Southampton,V,Crew
+Leonard,Mr. Matthew,Male,26,Belfast,V,Crew
+Fletcher,Mr. Peter W.,Male,26,Belfast,V,Crew
+Adams,Mr. R.,Male,26,Southampton,V,Crew
+Davies,Mr. Robert J.,Male,26,Belfast,V,Crew
+Williams,Mr. Samuel Solomon,Male,26,Southampton,V,Crew
+Blake,Mr. Seaton,Male,26,Southampton,V,Crew
+Blake,Mr. Seaton,Male,26,Belfast,V,Crew
+Kerr,Mr. Thomas,Male,26,Southampton,V,Crew
+Morgan,Mr. Thomas A.,Male,26,Southampton,V,Crew
+Snooks,Mr. W,Male,26,Southampton,V,Crew
+Smith,Mr. William,Male,26,Southampton,V,Crew
+Skeates,Mr. William,Male,26,Southampton,V,Crew
+Foley,Mr. William C.,Male,26,Southampton,S,Crew
+Peters,Mr. William Chapman,Male,26,Southampton,S,Crew
+Lyons,Mr. William Henry,Male,26,Southampton,V,Crew
+Gosling,S.,Male,26,Southampton,V,Crew
+Davidson,Mrs Orian,Female,27,Cherbourg,S,1
+Douglas,Mrs Mary Hélène,Female,27,Cherbourg,S,1
+Driscoll,Miss Bridget,Female,27,Queenstown,S,3
+Durán I Moné,Señora Asuncion,Female,27,Cherbourg,S,2
+Honkanen,Miss Eliina,Female,27,Southampton,V,3
+Ilmakangas,Miss Ida Livija,Female,27,Southampton,V,3
+Leroy,Miss Berthe,Female,27,Cherbourg,S,1
+Trout,Mrs Jessie Laird,Female,27,Southampton,S,2
+Troutt,Miss Edwina Celia,Female,27,Southampton,S,2
+Tu’Mah,Mrs Hinnah,Female,27,Cherbourg,S,3
+Attala,Mr Sleiman,Male,27,Cherbourg,V,3
+Carrau,Mr Francisco Mauro Severiano,Male,27,Southampton,V,1
+Chambers,Mr Norman Campbell,Male,27,Southampton,S,1
+Clark,Mr Walter Miller,Male,27,Cherbourg,V,1
+Collander,Mr Erik Gustaf,Male,27,Southampton,V,2
+Cor,Mr Ivan,Male,27,Southampton,V,3
+Daniel,Mr Robert Williams,Male,27,Southampton,S,1
+Danoff,Mr Yoto,Male,27,Southampton,V,3
+Hannah,Mr Borak,Male,27,Cherbourg,S,3
+Hassab,Mr Hammad,Male,27,Cherbourg,S,1
+Hedman,Mr Oskar Arvid,Male,27,Southampton,S,3
+Jönsson,Mr Nils Hilding,Male,27,Southampton,V,3
+Linhart,Mr Wenzel,Male,27,Southampton,V,3
+McNamee,Mr Neal,Male,27,Southampton,V,3
+Moen,Mr Sigurd Hansen,Male,27,Southampton,V,3
+Montvila,Father Juozas,Male,27,Southampton,V,2
+Moran,Mr Daniel J.,Male,27,Queenstown,V,3
+Norman,Mr Robert Douglas,Male,27,Southampton,V,2
+O’Brien,Mr Thomas,Male,27,Queenstown,V,3
+Olsen,Mr Ole Martin,Male,27,Southampton,V,3
+Plotcharsky,Mr Vasil,Male,27,Southampton,V,3
+Pulbaum,Mr Franz,Male,27,Cherbourg,V,2
+Radeff,Mr Alexander,Male,27,Southampton,V,3
+Saad,Mr Khalil,Male,27,Cherbourg,V,3
+Sharp,Mr Percival,Male,27,Southampton,V,2
+Strilic,Mr Ivan,Male,27,Southampton,V,3
+Wennerström,Mr August,Male,27,Southampton,S,3
+Widener,Mr Harry Elkins,Male,27,Southampton,V,1
+Wirz,Mr Albert,Male,27,Southampton,V,3
+Yasbeck,Mr Antoni,Male,27,Cherbourg,S,3
+Zakarian,Mr Ortin,Male,27,Cherbourg,V,3
+Bowker,Miss Ruth,Female,27,Southampton,S,Crew
+Olliver,Mr. Alfred,Male,27,Belfast,S,Crew
+Lewis,Mr. Arthur Ernest,Male,27,Southampton,S,Crew
+Morgan,Mr. Arthur Herbert,Male,27,Southampton,V,Crew
+Buley,Mr. Edward John,Male,27,Southampton,S,Crew
+White,Mr. Edward Joseph,Male,27,Southampton,V,Crew
+Smith,Mr. Ernest George,Male,27,Southampton,V,Crew
+Corben,Mr. Ernest Theodore,Male,27,Southampton,V,Crew
+Parsons,Mr. Frank Alfred,Male,27,Belfast,V,Crew
+Randall,Mr. Frank Henry,Male,27,Southampton,V,Crew
+White,Mr. Frank Leonard,Male,27,Southampton,V,Crew
+Crafter,Mr. Frederick,Male,27,Southampton,S,Crew
+Phillips,Mr. G.,Male,27,Southampton,V,Crew
+Talbot,Mr. George Frederick Charles.,Male,27,Southampton,V,Crew
+Marett,Mr. George John,Male,27,Southampton,V,Crew
+Rimmer,Mr. Gilbert,Male,27,Southampton,V,Crew
+Basilico,Mr. Giovanni,Male,27,Southampton,V,Crew
+Casali,Mr. Giulio,Male,27,Southampton,V,Crew
+Holman,Mr. Harry,Male,27,Belfast,V,Crew
+Dodds,Mr. Henry Watson,Male,27,Southampton,V,Crew
+Forward,Mr. James,Male,27,Southampton,S,Crew
+Thomas,Mr. James,Male,27,Southampton,V,Crew
+McGrady,Mr. James,Male,27,Southampton,V,Crew
+Brookman,Mr. John,Male,27,Southampton,V,Crew
+Davies,Mr. John James,Male,27,Belfast,V,Crew
+Tietz,Mr. Karl,Male,27,Southampton,V,Crew
+Doyle,Mr. Laurence,Male,27,Southampton,V,Crew
+Rogers,Mr. Michael,Male,27,Southampton,V,Crew
+Mathais,Mr. Montague Vincent,Male,27,Southampton,V,Crew
+Millar,Mr. Robert,Male,27,Southampton,V,Crew
+Rutter,Mr. Sidney,Male,27,Southampton,V,Crew
+James,Mr. Thomas,Male,27,Southampton,V,Crew
+Ryan,Mr. Tom,Male,27,Southampton,V,Crew
+Watson,Mr. W.,Male,27,Southampton,V,Crew
+Cheverton,Mr. William Edward,Male,27,Belfast,V,Crew
+Caunt,Mr. William Ewart,Male,27,Southampton,V,Crew
+Mayo,Mr. William Peter,Male,27,Southampton,V,Crew
+Fox,Mr. William Thomas,Male,27,Southampton,V,Crew
+Hurst,Walter,Male,27,Southampton,S,Crew
+Abelson,Mrs Hannah,Female,28,Cherbourg,S,2
+Caldwell,Mrs Sylvia Mae,Female,28,Southampton,S,2
+Chapman,Mrs Sara Elizabeth,Female,28,Southampton,V,2
+Clarke,Mrs Ada Maria,Female,28,Southampton,S,2
+Danbom,Mrs Anna Sigrid Maria,Female,28,Southampton,V,3
+Davis,Miss Mary Ann Charlotte,Female,28,Southampton,S,2
+Doyle,Miss Elizabeth,Female,28,Queenstown,V,3
+Fortune,Miss Ethel Flora,Female,28,Southampton,S,1
+Henriksson,Miss Jenny Lovisa,Female,28,Southampton,V,3
+Karnes,Mrs Claire,Female,28,Southampton,V,2
+Mannion,Miss Margaret,Female,28,Queenstown,S,3
+Moran,Miss Bridget,Female,28,Queenstown,S,3
+Peteranec,Miss Mathilda,Female,28,Southampton,V,3
+Reynalds,Señora Encarnación,Female,28,Southampton,S,2
+Banfield,Mr Frederick James,Male,28,Southampton,V,2
+Beauchamp,Mr Henry James,Male,28,Southampton,V,2
+Björnström-Steffansson,Mr Mauritz Hokan,Male,28,Southampton,S,1
+Cairns,Mr Alexander Milne,Male,28,Southampton,V,1
+Caram,Mr Joseph,Male,28,Cherbourg,V,3
+Carlsson,Mr August Sigfrid,Male,28,Southampton,V,3
+Carver,Mr Alfred John,Male,28,Southampton,V,3
+Clarke,Mr John Frederick Preston,Male,28,Southampton,V,2
+Daher,Mr Tannous,Male,28,Cherbourg,V,3
+Flynn,Mr James,Male,28,Queenstown,V,3
+Fox,Mr Patrick,Male,28,Queenstown,V,3
+Gustafsson,Mr Johan Birger,Male,28,Southampton,V,3
+Hagland,Mr Ingvald Olai Olsen,Male,28,Southampton,V,3
+Hakkarainen,Mr Pekka Pietari,Male,28,Southampton,V,3
+Hart,Mr Henry,Male,28,Queenstown,V,3
+Hendekovic,Mr Ignjac,Male,28,Southampton,V,3
+Holthen,Mr Johan Martin,Male,28,Southampton,V,3
+Ling,Mr Lee,Male,28,Southampton,V,3
+Mernagh,Mr Robert,Male,28,Queenstown,V,3
+Meyer,Mr Edgar Joseph,Male,28,Cherbourg,V,1
+Mihoff,Mr Stoytcho,Male,28,Southampton,V,3
+Moutal,Mr Rahamin Haim,Male,28,Southampton,V,3
+Nasser,Mr Nicholas,Male,28,Cherbourg,V,2
+Niklasson,Mr Samuel,Male,28,Southampton,V,3
+Olsen,Mr Henry Margido,Male,28,Southampton,V,3
+Olsson,Mr Nils Johan Göransson,Male,28,Southampton,V,3
+Pedersen,Mr Olaf,Male,28,Southampton,V,3
+Sedgwick,Mr Charles Frederick Waddington,Male,28,Southampton,V,2
+Sloper,Mr William Thompson,Male,28,Southampton,S,1
+Van Den Steen,Mr Leo Peter,Male,28,Southampton,V,3
+Vandewalle,Mr Nestor Cyriel,Male,28,Southampton,V,3
+Williams,Mr Howard Hugh,Male,28,Southampton,V,3
+Williams,Mr Leslie,Male,28,Southampton,V,3
+Marsden,Miss Evelyn,Female,28,Southampton,S,Crew
+Sloan,Miss Mary,Female,28,Southampton,S,Crew
+Akerman,Mr. Albert,Male,28,Southampton,V,Crew
+Coleman,Mr. Albert Edward,Male,28,Southampton,V,Crew
+Black,Mr. Alexander,Male,28,Southampton,V,Crew
+Baggott,Mr. Allen Marden,Male,28,Southampton,S,Crew
+Chitty,Mr. Archibald George,Male,28,Southampton,V,Crew
+Coutin,Mr. Auguste Louis,Male,28,Southampton,V,Crew
+Coutin,Mr. Auguste Louis,Male,28,Southampton,V,Crew
+Wilson,Mr. Bertie,Male,28,Southampton,V,Crew
+Guy,Mr. Edward John,Male,28,Southampton,S,Crew
+Poggi,Mr. Emilio,Male,28,Southampton,V,Crew
+Olive,Mr. Ernest Roskelly,Male,28,Southampton,V,Crew
+King,Mr. Ernest Waldron,Male,28,Southampton,V,Crew
+Gollop,Mr. F.,Male,28,Southampton,V,Crew
+Couch,Mr. Frank,Male,28,Southampton,V,Crew
+Osman,Mr. Frank,Male,28,Southampton,S,Crew
+Goree,Mr. Frank,Male,28,Southampton,V,Crew
+Long,Mr. Frank,Male,28,Southampton,V,Crew
+Morris,Mr. Frank Herbert,Male,28,Belfast,S,Crew
+Barrett,Mr. Frederick,Male,28,Southampton,S,Crew
+Scott,Mr. Frederick,Male,28,Southampton,S,Crew
+Marsh,Mr. Frederick Charles,Male,28,Southampton,V,Crew
+Milford,Mr. George,Male,28,Southampton,V,Crew
+Bietrix,Mr. George Baptiste,Male,28,Southampton,V,Crew
+Jaillet,Mr. Henri Marie,Male,28,Southampton,V,Crew
+Stubbs,Mr. James Henry,Male,28,Southampton,V,Crew
+Pearce,Mr. John,Male,28,Southampton,S,Crew
+Gunn,Mr. Joseph Alfred,Male,28,Southampton,V,Crew
+Turner,Mr. Leopold[25],Male,28,Belfast,V,Crew
+Keen,Mr. Percy Edward,Male,28,Southampton,S,Crew
+Webb,Mr. Samuel Francis,Male,28,Southampton,V,Crew
+Casey,Mr. T.,Male,28,Southampton,V,Crew
+Hunt,Mr. T.,Male,28,Southampton,V,Crew
+Holland,Mr. Thomas,Male,28,Belfast,V,Crew
+Graham,Mr. Thomas Gibson,Male,28,Belfast,S,Crew
+Williams,Mr. Walter J.,Male,28,Southampton,S,Crew
+Brown,Mr. Walter James,Male,28,Belfast,V,Crew
+Jeffery,Mr. William Alfred,Male,28,Southampton,V,Crew
+Taylor,Mr. William Henry,Male,28,Southampton,S,Crew
+Duffy,Mr. William Luke,Male,28,Belfast,V,Crew
+Kerley,Mr. William Thomas,Male,28,Southampton,V,Crew
+Boxhall,"Sub-Lieutenant Joseph Groves, RNR",Male,28,Belfast,S,Crew
+Allen,Miss Elisabeth Walton,Female,29,Southampton,S,1
+Healy,Miss Honor,Female,29,Queenstown,S,3
+Hold,Mrs Annie Margaret,Female,29,Southampton,S,2
+Kreuchen,Miss Emilie,Female,29,Southampton,S,1
+McCoy,Miss Agnes,Female,29,Queenstown,S,3
+Moor,Mrs Beila,Female,29,Southampton,S,3
+Nieminen,Miss Manta Josefina,Female,29,Southampton,V,3
+Nye,Mrs Elizabeth,Female,29,Southampton,S,2
+Pålsson,Mrs Alma Cornelia,Female,29,Southampton,V,3
+Sinkkonen,Miss Anna,Female,29,Southampton,S,2
+Ström,Mrs Elna Matilda,Female,29,Southampton,V,3
+Wells,Mrs Addie Dart,Female,29,Southampton,S,2
+Bracken,Mr James Hollen,Male,29,Southampton,V,2
+Braund,Mr Lewis Richard,Male,29,Southampton,V,3
+Christmann,Mr Emil,Male,29,Southampton,V,3
+Clarke,Mr Charles Valentine,Male,29,Southampton,V,2
+Coleridge,Mr Reginald Charles,Male,29,Southampton,V,2
+Daly,Mr Eugene Patrick,Male,29,Queenstown,S,3
+Del Carlo,Mr Sebastiano,Male,29,Cherbourg,V,2
+Elias,Mr Dibo,Male,29,Cherbourg,V,3
+Gallagher,Mr Martin,Male,29,Queenstown,V,3
+Jalševac,Mr Ivan,Male,29,Cherbourg,S,3
+Johannesen,Mr Bernt Johannes,Male,29,Southampton,S,3
+Johansson,Mr Nils,Male,29,Southampton,V,3
+Kink,Mr Anton,Male,29,Southampton,S,3
+Larsson,Mr August Viktor,Male,29,Southampton,V,3
+Larsson,Mr Bengt Edvin,Male,29,Southampton,V,3
+Long,Mr Milton Clyde,Male,29,Southampton,V,1
+Lulic,Mr Nikola,Male,29,Southampton,S,3
+Mäkinen,Mr Kalle Edvard,Male,29,Southampton,V,3
+Maréchal,Mr Pierre,Male,29,Cherbourg,S,1
+Moss,Mr Albert Johan,Male,29,Southampton,S,3
+Omont,Mr Alfred Fernand,Male,29,Cherbourg,S,1
+Pallàs I Castelló,Señor Emili,Male,29,Cherbourg,S,2
+Parr,Mr William Henry Marsh,Male,29,Belfast,V,1
+Pears,Mr Thomas Clinton,Male,29,Southampton,V,1
+Petroff,Mr Pastcho,Male,29,Southampton,V,3
+Rogers,Mr William John,Male,29,Southampton,V,3
+Salonen,Mr Johan Werner,Male,29,Southampton,V,3
+Scheerlinck,Mr Jean,Male,29,Southampton,S,3
+Shihāb,Mr Al-Am īr Fāris,Male,29,Cherbourg,V,3
+Turpin,Mr William John,Male,29,Southampton,V,2
+Zimmermann,Mr Leo,Male,29,Southampton,V,3
+Franklin,Mr. Alan Vincent,Male,29,Southampton,V,Crew
+Deeble,Mr. Alfred Arnold,Male,29,Belfast,V,Crew
+Fellowes,Mr. Alfred J.,Male,29,Belfast,V,Crew
+Jackson,Mr. Cecil,Male,29,Belfast,V,Crew
+Barnes,Mr. Charles,Male,29,Southampton,V,Crew
+Hendrickson,Mr. Charles Osker,Male,29,Southampton,S,Crew
+Janin,Mr. Claude Marie,Male,29,Southampton,V,Crew
+Harris,Mr. Edward,Male,29,Southampton,V,Crew
+Burr,Mr. Ewart,Male,29,Southampton,V,Crew
+Martin,Mr. F.,Male,29,Southampton,S,Crew
+Painter,Mr. Frank,Male,29,Southampton,V,Crew
+Barnes,Mr. Frederick,Male,29,Southampton,V,Crew
+Benham,Mr. Frederick,Male,29,Southampton,V,Crew
+Hogg,Mr. George Alfred,Male,29,Belfast,S,Crew
+Nettleton,Mr. George Walter,Male,29,Southampton,V,Crew
+Jones,Mr. H.,Male,29,Southampton,V,Crew
+Hensford,Mr. Herbert George,Male,29,Southampton,V,Crew
+Gordon,Mr. J.,Male,29,Southampton,V,Crew
+Blaney,Mr. James,Male,29,Southampton,V,Crew
+Fraser,Mr. James,Male,29,Belfast,V,Crew
+Fraser,Mr. James,Male,29,Southampton,V,Crew
+McGann,Mr. James,Male,29,Southampton,S,Crew
+Hutchinson,Mr. James,Male,29,Southampton,V,Crew
+Paintin,Mr. James Arthur,Male,29,Southampton,V,Crew
+Moore,Mr. John J.,Male,29,Southampton,S,Crew
+Bogie,Mr. Norman Leslie,Male,29,Southampton,V,Crew
+Hichens,Mr. Robert,Male,29,Southampton,S,Crew
+Bradley,Mr. T.,Male,29,Southampton,V,Crew
+Shea,Mr. Thomas,Male,29,Southampton,V,Crew
+Ranger,Mr. Thomas G.,Male,29,Southampton,S,Crew
+Loyd,Mr. W.,Male,29,Southampton,V,Crew
+Ridout,Mr. W.,Male,29,Southampton,V,Crew
+Cox,Mr. William Denton,Male,29,Southampton,V,Crew
+Parr,Mr. William Henry Marsh,Male,29,Belfast,V,Crew
+Lowe,"Sub-Lieutenant Harold Godfrey, RNR",Male,29,Belfast,S,Crew
+Bonnell,Miss Caroline,Female,30,Southampton,S,1
+Cacic,Miss Marija,Female,30,Southampton,V,3
+Cherry,Miss Gladys,Female,30,Southampton,S,1
+Corbett,Mrs Irene,Female,30,Southampton,V,2
+Corey,Mrs Mary Emma,Female,30,Southampton,V,2
+Durán I Moné,Señora Florentina,Female,30,Cherbourg,S,2
+Lahhūd Ishaq Mu’Awwad,MrSark īs,Female,30,Cherbourg,V,3
+Lindell,Mrs Elin Gerda,Female,30,Southampton,S,3
+Renouf,Mrs Lillian,Female,30,Southampton,V,2
+Serreplan,Miss Auguste,Female,30,Southampton,S,1
+Slayter,Miss Hilda Mary,Female,30,Queenstown,S,2
+Van Impe,Mrs Rosalie Paula,Female,30,Southampton,V,3
+Abelson,Mr Samuel,Male,30,Cherbourg,V,2
+Ådahl,Mr Mauritz,Male,30,Southampton,V,3
+Allison,Mr Hudson Joshua Creighton,Male,30,Southampton,V,1
+Cornblatt,Mr Harris,Male,30,Southampton,V,3
+De Mulder,Mr Theodoor,Male,30,Southampton,S,3
+Denkoff,Mr Mitto,Male,30,Southampton,V,3
+Foreman,Mr Benjamin Laventall,Male,30,Southampton,V,1
+Givard,Mr Hans Kristensen,Male,30,Southampton,V,2
+Hale,Mr Reginald,Male,30,Southampton,V,2
+Hickman,Mr Lewis,Male,30,Southampton,V,2
+Karajic,Mr Milan,Male,30,Southampton,V,3
+Lamb,Mr John J.,Male,30,Queenstown,V,2
+Lewy,Mr Ervin G.,Male,30,Cherbourg,V,1
+Lobb,Mr William Arthur,Male,30,Southampton,V,3
+Loring,Mr Joseph Holland,Male,30,Southampton,V,1
+Lymperopoulus,Mr Panagiotis K.,Male,30,Cherbourg,V,3
+Maguire,Mr John Edward,Male,30,Southampton,V,1
+Mangiavacchi,Mr Serafino Emilio,Male,30,Cherbourg,V,2
+Matinoff,Mr Nicola,Male,30,Cherbourg,V,3
+Mock,Mr Philipp Edmund,Male,30,Cherbourg,S,1
+Morrow,Mr Thomas Rowan,Male,30,Queenstown,V,3
+Portaluppi,Mr Emilio Ilario Giuseppe,Male,30,Cherbourg,S,2
+Razi,Mr Raihed,Male,30,Cherbourg,V,3
+Ryan,Mr Patrick,Male,30,Queenstown,V,3
+Saad,Mr Amin,Male,30,Cherbourg,V,3
+Somerton,Mr Francis William,Male,30,Southampton,V,3
+Warren,Mr Charles William,Male,30,Southampton,V,3
+Clarke,John Frederick Preston,Male,30,Southampton,V,Crew
+Bochatay,Mr. Alexis Joseph,Male,30,Southampton,V,Crew
+Morris,Mr. Arthur,Male,30,Southampton,V,Crew
+Kitching,Mr. Arthur Alfred,Male,30,Southampton,V,Crew
+Broome,Mr. Athol Frederick,Male,30,Southampton,V,Crew
+Stanbrook,Mr. Augustus,Male,30,Southampton,V,Crew
+Cunningham,Mr. B.,Male,30,Southampton,V,Crew
+Allaria,Mr. Battista Antonio,Male,30,Southampton,V,Crew
+Fey,Mr. Carlo,Male,30,Southampton,V,Crew
+Barlow,Mr. Charles,Male,30,Southampton,V,Crew
+Kennell,Mr. Charles,Male,30,Southampton,V,Crew
+Sangster,Mr. Charles Edward,Male,30,Southampton,V,Crew
+Fitzpatrick,Mr. Charles W.N.,Male,30,Southampton,S,Crew
+Matherson,Mr. David,Male,30,Southampton,V,Crew
+Stone,Mr. Edward Thomas,Male,30,Southampton,V,Crew
+McGaw,Mr. Errol Victor,Male,30,Southampton,V,Crew
+Young,Mr. Francis James,Male,30,Southampton,V,Crew
+Hannam,Mr. George,Male,30,Southampton,V,Crew
+Bennett,Mr. George Alfred,Male,30,Southampton,V,Crew
+Crowe,Mr. George Frederick,Male,30,Southampton,S,Crew
+Ketchley,Mr. Henry,Male,30,Belfast,V,Crew
+Brewer,"Mr. Henry ""Harry""",Male,30,Southampton,V,Crew
+Calderwood,Mr. Hugh,Male,30,Belfast,V,Crew
+McGregor,Mr. J. (John Brown Niven),Male,30,Southampton,V,Crew
+Toshack,Mr. James A.,Male,30,Southampton,V,Crew
+Robinson,Mr. James William,Male,30,Southampton,V,Crew
+Dilley,Mr. John,Male,30,Southampton,S,Crew
+Hagan,Mr. John,Male,30,Belfast,S,Crew
+Ellis,Mr. John Bertram,Male,30,Southampton,S,Crew
+Jackopson,Mr. John Henry,Male,30,Southampton,V,Crew
+Giles,Mr. John Robert,Male,30,Southampton,V,Crew
+Heinen,Mr. Joseph,Male,30,Southampton,V,Crew
+Richards,Mr. Joseph James,Male,30,Southampton,V,Crew
+Kinsella,Mr. Louis,Male,30,Southampton,V,Crew
+Piazza,Mr. Pompeo,Male,30,Southampton,V,Crew
+Pfropper,Mr. Richard,Male,30,Southampton,S,Crew
+Burke,Mr. Richard Edward,Male,30,Belfast,V,Crew
+Couper,Mr. Robert,Male,30,Southampton,S,Crew
+Reed,Mr. Robert,Male,30,Southampton,V,Crew
+Reeves,Mr. Robert,Male,30,Southampton,V,Crew
+Steel,Mr. Robert Edward,Male,30,Southampton,V,Crew
+Sawyer,Mr. Robert James,Male,30,Southampton,V,Crew
+Fay,Mr. Thomas,Male,30,Southampton,V,Crew
+Ford,Mr. Thomas,Male,30,Southampton,V,Crew
+Saunders,Mr. W.,Male,30,Southampton,V,Crew
+Bull,Mr. W.,Male,30,Southampton,V,Crew
+Lindsay,Mr. William Charles,Male,30,Southampton,S,Crew
+Weller,Mr. William Clifford,Male,30,Belfast,S,Crew
+Penny,Mr. William Far,Male,30,Southampton,V,Crew
+Butt,Mr. William John,Male,30,Southampton,V,Crew
+Boston,Mr. William John,Male,30,Belfast,V,Crew
+Bennett,Mrs. Mabel,Female,30,Southampton,S,Crew
+Slocombe,Mrs. Maud (née Waldon),Female,30,Southampton,S,Crew
+Banski,Mrs Mara,Female,31,Southampton,V,3
+Bird,Miss Ellen,Female,31,Southampton,S,1
+Collyer,Mrs Charlotte Caroline,Female,31,Southampton,S,2
+Dowdell,Miss Elizabeth,Female,31,Southampton,S,3
+Francatelli,Miss Laura Mabel,Female,31,Cherbourg,S,1
+Goldsmith,Mrs Emily Alice,Female,31,Southampton,S,3
+Hoyt,Mrs Jane Anne,Female,31,Southampton,S,1
+Leitch,Miss Jessie Wills,Female,31,Southampton,S,2
+McDermott,Miss Bridget Delia,Female,31,Queenstown,S,3
+Meek,Mrs Annie Louisa,Female,31,Southampton,V,3
+Newell,Miss Madeleine,Female,31,Cherbourg,S,1
+Olsson,Miss Elina,Female,31,Southampton,V,3
+Roth,Miss Sarah,Female,31,Southampton,S,3
+Vanderplancke,Mrs Emelie Maria,Female,31,Southampton,V,3
+Ware,Mrs Florence Louise,Female,31,Southampton,S,2
+Wick,Miss Mary Natalie,Female,31,Southampton,S,1
+Wilson,Miss Helen Alice,Female,31,Cherbourg,S,1
+Collyer,Mr Harvey,Male,31,Southampton,V,2
+Conlin,Mr Thomas Henry,Male,31,Queenstown,V,3
+Davidson,Mr Thornton,Male,31,Cherbourg,V,1
+Dick,Mr Albert Adrian,Male,31,Southampton,S,1
+Gillespie,Mr William Henry,Male,31,Southampton,V,2
+Johansson,Mr Karl Johan,Male,31,Southampton,V,3
+Kvillner,Mr Johan Henrik Johannesson,Male,31,Southampton,V,2
+Meyer,Mr August,Male,31,Southampton,V,2
+Roebling,Mr Washington Augustus II,Male,31,Southampton,V,1
+Strandén,Mr Juho Niilosson,Male,31,Southampton,S,3
+Tannūs,Mr Bash īr,Male,31,Cherbourg,V,3
+Tucker,Mr Gilbert Milligan Jr,Male,31,Cherbourg,S,1
+Vanderplancke,Mr Julius,Male,31,Southampton,V,3
+Whilems,Mr Charles,Male,31,Southampton,S,2
+Haines,Mr. Albert M.,Male,31,Belfast,S,Crew
+Howell,Mr. Arthur Albert,Male,31,Belfast,V,Crew
+Goshawk,Mr. Arthur James,Male,31,Belfast,V,Crew
+Tizard,Mr. Arthur Leopold,Male,31,Southampton,V,Crew
+Olive,Mr. Charles,Male,31,Southampton,V,Crew
+Painter,Mr. Charles,Male,31,Southampton,V,Crew
+Bagley,Mr. Edward Ernest,Male,31,Southampton,V,Crew
+Rowe,Mr. Edward M.,Male,31,Belfast,V,Crew
+Bessant,Mr. Edward William,Male,31,Southampton,V,Crew
+Webber,Mr. Francis Albert,Male,31,Southampton,V,Crew
+Prangnell,Mr. George,Male,31,Southampton,S,Crew
+Clench,Mr. George James,Male,31,Southampton,V,Crew
+Noss,Mr. Henry,Male,31,Southampton,S,Crew
+Senior,Mr. Henry,Male,31,Southampton,S,Crew
+Wood,Mr. Henry,Male,31,Southampton,V,Crew
+Jupe,Mr. Herbert,Male,31,Southampton,V,Crew
+Perriton,Mr. Hubert Prouse,Male,31,Southampton,V,Crew
+Maynard,Mr. Isaac Hiram,Male,31,Belfast,S,Crew
+Byrne,Mr. J.E.,Male,31,Southampton,V,Crew
+McMullin,Mr. James,Male,31,Belfast,V,Crew
+Witter,Mr. James W.C.,Male,31,Southampton,S,Crew
+Maxwell,Mr. John,Male,31,Belfast,V,Crew
+Hart,Mr. John Edward,Male,31,Southampton,S,Crew
+Ward,Mr. Joseph,Male,31,Southampton,V,Crew
+Kieran,Mr. Michael,Male,31,Southampton,V,Crew
+Pugh,Mr. Percy,Male,31,Southampton,V,Crew
+Sloan,Mr. Peter,Male,31,Belfast,V,Crew
+Geddes,Mr. Richard Charles,Male,31,Southampton,V,Crew
+Bristow,Mr. Robert Charles,Male,31,Southampton,V,Crew
+Vioni,Mr. Roberto,Male,31,Southampton,V,Crew
+Hinton,Mr. Steven William,Male,31,Southampton,V,Crew
+Humphreys,Mr. Thomas Humphrey,Male,31,Southampton,V,Crew
+Gilardino,Mr. Vincenzo Pio,Male,31,Southampton,V,Crew
+Orpet,Mr. Walter Hayward,Male,31,Southampton,V,Crew
+Nutbean,Mr. William,Male,31,Southampton,S,Crew
+Burke,Mr. William,Male,31,Belfast,S,Crew
+Carney,Mr. William,Male,31,Southampton,V,Crew
+Dyer,Mr. William,Male,31,Southampton,V,Crew
+Revell,Mr. William,Male,31,Belfast,V,Crew
+Bedford,Mr. William Barnet,Male,31,Southampton,V,Crew
+Bassani,Mrs Albina,Female,32,Cherbourg,S,1
+Bourke,Mrs Catherine,Female,32,Queenstown,V,3
+Chambers,Mrs Bertha,Female,32,Southampton,S,1
+Dean,Mrs Eva Georgetta,Female,32,Southampton,S,3
+Mangan,Miss Mary,Female,32,Queenstown,V,3
+McNeill,Miss Bridget,Female,32,Queenstown,V,3
+Pinsky,Mrs Rosa,Female,32,Southampton,S,2
+Thorneycroft,Mrs Florence Kate,Female,32,Southampton,S,3
+Angle,Mr William,Male,32,Southampton,V,2
+Backström,Mr Karl Alfred,Male,32,Southampton,V,3
+Beane,Mr Edward,Male,32,Southampton,S,2
+Bing,Mr Lee,Male,32,Southampton,S,3
+Brito,Mr José Joaquim de,Male,32,Southampton,V,2
+Chip,Mr Chang,Male,32,Southampton,S,3
+Davison,Mr Thomas Henry,Male,32,Southampton,V,3
+Foo,Mr Choong,Male,32,Southampton,S,3
+Grønnestad,Mr Daniel Danielsen,Male,32,Southampton,V,3
+Ilieff,Mr Ylio,Male,32,Southampton,V,3
+Jenkin,Mr Stephen Curnow,Male,32,Southampton,V,2
+Jussila,Mr Eiriik,Male,32,Southampton,S,3
+Lang,Mr Fang,Male,32,Southampton,S,3
+Leinonen,Mr Antti Gustaf,Male,32,Southampton,V,3
+Lundström,Mr Thure Edvin,Male,32,Southampton,S,3
+McCrae,Mr Arthur Gordon,Male,32,Southampton,V,2
+McCrie,Mr James Matthew,Male,32,Southampton,V,2
+Nankoff,Mr Minko,Male,32,Southampton,V,3
+Navratil,Mr Michel,Male,32,Southampton,V,2
+Olsson,Mr Oscar Wilhelm,Male,32,Southampton,S,3
+Pavlovic,Mr Stefo,Male,32,Southampton,V,3
+Pearce,Mr Ernest,Male,32,Southampton,V,3
+Picard,Mr Benoît,Male,32,Southampton,S,3
+Spinner,Mr Henry John,Male,32,Southampton,V,3
+Stähelin-Maeglin,Dr Max,Male,32,Southampton,S,1
+Taylor,Mr Percy Cornelius,Male,32,Southampton,V,2
+Tikkanen,Mr Juho,Male,32,Southampton,V,3
+Woodward,Mr John Wesley,Male,32,Southampton,V,2
+Woodward,John Wesley,Male,32,Southampton,V,Crew
+Walsh,Miss Catherine,Female,32,Southampton,V,Crew
+Pearcey,Mr. Albert Victor,Male,32,Southampton,S,Crew
+White,Mr. Alfred,Male,32,Southampton,S,Crew
+Rice,Mr. Charles,Male,32,Southampton,S,Crew
+Casswill,Mr. Charles,Male,32,Southampton,V,Crew
+Judd,Mr. Charles E.,Male,32,Southampton,S,Crew
+Back,Mr. Charles Frederick,Male,32,Belfast,V,Crew
+Joughin,Mr. Charles John,Male,32,Belfast,S,Crew
+Newman,Mr. Charles Thomas,Male,32,Southampton,V,Crew
+Rogers,Mr. Edward James William,Male,32,Southampton,V,Crew
+Burton,Mr. Edward John,Male,32,Southampton,V,Crew
+Ford,Mr. Ernest,Male,32,Southampton,V,Crew
+Gradidge,Mr. Ernest E.,Male,32,Southampton,V,Crew
+Farrenden,Mr. Ernest John,Male,32,Belfast,V,Crew
+Port,Mr. Frank,Male,32,Belfast,S,Crew
+Mason,Mr. Frank Archibald Robert,Male,32,Southampton,S,Crew
+Ray,Mr. Frederick Dent,Male,32,Belfast,S,Crew
+Pond,Mr. George,Male,32,Southampton,V,Crew
+Moore,Mr. George Alfred,Male,32,Southampton,S,Crew
+Evans,Mr. George Richard,Male,32,Belfast,V,Crew
+Rowe,Mr. George Thomas,Male,32,Belfast,S,Crew
+Oliver,Mr. H.,Male,32,Southampton,S,Crew
+Ide,Mr. Harry John,Male,32,Southampton,V,Crew
+Allen,Mr. Henry,Male,32,Southampton,V,Crew
+Vear,Mr. Henry,Male,32,Southampton,V,Crew
+Ashe,Mr. Henry Wellesley,Male,32,Southampton,V,Crew
+Lloyd,Mr. Humphrey,Male,32,Belfast,V,Crew
+Tozer,Mr. James,Male,32,Southampton,V,Crew
+Cartwright,Mr. James Edward,Male,32,Belfast,V,Crew
+Kieran,Mr. James W.,Male,32,Southampton,V,Crew
+Bannon,Mr. John,Male,32,Southampton,V,Crew
+Taylor,Mr. John,Male,32,Southampton,V,Crew
+Shepherd,Mr. Johnathan,Male,32,Southampton,V,Crew
+Hall,Mr. Joseph,Male,32,Southampton,V,Crew
+Chapman,Mr. Joseph Charles,Male,32,Southampton,S,Crew
+White,Mr. L.,Male,32,Southampton,V,Crew
+Golder,Mr. Martin W.,Male,32,Southampton,V,Crew
+Vigott,Mr. Philip Francis,Male,32,Southampton,S,Crew
+Paice,Mr. Richard Charles John,Male,32,Southampton,V,Crew
+Wake,Mr. T.,Male,32,Southampton,V,Crew
+Porteus,Mr. Thomas,Male,32,Belfast,V,Crew
+Lahy,Mr. Thomas E.,Male,32,Southampton,V,Crew
+Teuton,Mr. Thomas Moore,Male,32,Southampton,V,Crew
+Jones,Mr. Thomas William,Male,32,Southampton,S,Crew
+Vear,Mr. W.,Male,32,Southampton,V,Crew
+Major,Mr. William,Male,32,Southampton,S,Crew
+McQuillan,Mr. William,Male,32,Belfast,V,Crew
+Barrows,Mr. William,Male,32,Southampton,V,Crew
+Crispin,Mr. William,Male,32,Southampton,V,Crew
+McRae,Mr. William Alexander,Male,32,Southampton,V,Crew
+Mackie,Mr. William Dickson,Male,32,Belfast,V,Crew
+Osbourne,Mr. William Edward,Male,32,Belfast,V,Crew
+Ryerson,Mr. William Edwy,Male,32,Southampton,S,Crew
+Evans,Mr. Williams,Male,32,Southampton,V,Crew
+Taylor,Percy Cornelius,Male,32,Southampton,V,Crew
+Backström,Mrs Maria Mathilda,Female,33,Southampton,V,3
+Daly,Miss Margaret Marcella,Female,33,Queenstown,S,3
+Daniels,Miss Sarah Rebecca,Female,33,Southampton,S,1
+Minahan,Miss Daisy E.,Female,33,Queenstown,S,1
+Perreault,Miss Mary Anne,Female,33,Southampton,S,1
+Quick,Mrs Jane,Female,33,Southampton,S,2
+Rosenbaum,Miss Edith Louise,Female,33,Cherbourg,S,1
+Rothes,"Lucy Noël Martha, Countess of",Female,33,Southampton,S,1
+West,Mrs Ada Mary,Female,33,Southampton,S,2
+Andersen,Mr Albert Karvin,Male,33,Southampton,V,3
+Carlsson,Mr Frans Olof,Male,33,Southampton,V,1
+Drazenovic,Mr Jozef,Male,33,Cherbourg,V,3
+Gale,Mr Shadrach,Male,33,Southampton,V,2
+Goldsmith,Mr Frank John,Male,33,Southampton,V,3
+Hartley,Mr Wallace Henry,Male,33,Southampton,V,2
+Hunt,Mr George Henry,Male,33,Southampton,V,2
+Ibrahim Shawah,Mr Yousseff,Male,33,Cherbourg,V,3
+Johansson,Mr Gustaf Joel,Male,33,Southampton,V,3
+Johnson,Mr Malkolm Joackim,Male,33,Southampton,V,3
+Karlsson,Mr Julius Konrad Eugen,Male,33,Southampton,V,3
+Keeping,Mr Edwin Herbert,Male,33,Southampton,V,1
+Markun,Mr Johann,Male,33,Cherbourg,V,3
+Renouf,Mr Peter Henry,Male,33,Southampton,V,2
+Rheims,Mr George Alexander Lucien,Male,33,Cherbourg,S,1
+Sawyer,Mr Frederick Charles,Male,33,Southampton,V,3
+Stankovic,Mr Ivan,Male,33,Cherbourg,V,3
+Locke,Mr. A.,Male,33,Southampton,V,Crew
+Horswill,Mr. Albert Edward James,Male,33,Southampton,S,Crew
+Ferrary,Mr. Anton,Male,33,Southampton,V,Crew
+Barringer,Mr. Arthur William,Male,33,Belfast,V,Crew
+Biddlecombe,Mr. Charles,Male,33,Southampton,V,Crew
+Corcoran,Mr. Dennis,Male,33,Southampton,V,Crew
+Colgan,Mr. E. Joseph,Male,33,Southampton,S,Crew
+Barrett,Mr. Frederick William,Male,33,Southampton,V,Crew
+Davies,Mr. Gordon Raleigh,Male,33,Belfast,V,Crew
+Broom,Mr. H.,Male,33,Belfast,V,Crew
+Christmas,Mr. H.,Male,33,Southampton,V,Crew
+Bristow,Mr. Harry,Male,33,Southampton,V,Crew
+Klein,Mr. Herbert,Male,33,Southampton,V,Crew
+Ransom,Mr. James,Male,33,Belfast,V,Crew
+Hesketh,Mr. John Henry,Male,33,Belfast,V,Crew
+Poingdestre,Mr. John Thomas,Male,33,Southampton,S,Crew
+Scarrott,Mr. Joseph George,Male,33,Southampton,S,Crew
+Bazzi,Mr. Narciso,Male,33,Southampton,V,Crew
+Davies,Mr. Thomas,Male,33,Southampton,V,Crew
+Millar,Mr. Thomas,Male,33,Belfast,V,Crew
+Pennal,Mr. Thomas Francis,Male,33,Southampton,V,Crew
+Wiltshire,Mr. W.,Male,33,Southampton,V,Crew
+Abrams,Mr. William,Male,33,Southampton,V,Crew
+Hughes,Mr. William Thomas,Male,33,Southampton,V,Crew
+Prichard,Mrs. Alice,Female,33,Belfast,S,Crew
+Martin,Mrs. Annie,Female,33,Southampton,S,Crew
+Instance,T.,Male,33,Southampton,V,Crew
+Hartley,Wallace,Male,33,Southampton,V,Crew
+Davison,Mrs Mary Elizabeth,Female,34,Southampton,S,3
+Dodge,Mrs Ruth,Female,34,Southampton,S,1
+Doling,Mrs Ada Julia Elizabeth,Female,34,Southampton,V,2
+Drew,Mrs Maria Louisa Thorne,Female,34,Southampton,S,2
+Lahtinen,Mrs Anna Amelia,Female,34,Southampton,V,2
+Murphy,Miss Nora,Female,34,Queenstown,S,3
+Aldworth,Mr Augustus Henry,Male,34,Southampton,V,2
+Beesley,Mr Lawrence,Male,34,Southampton,S,2
+Danbom,Mr Ernst Gilbert,Male,34,Southampton,V,3
+Finoli,Mr Luigi,Male,34,Southampton,S,3
+Hyman,Mr Abraham Joseph,Male,34,Southampton,S,3
+Johanson,Mr Jakob Alfred,Male,34,Southampton,V,3
+Kantor,Mr Sinai,Male,34,Southampton,V,2
+Maisner,Mr Simon,Male,34,Southampton,V,3
+Morley,Mr William,Male,34,Southampton,V,3
+Seward,Mr Frederic Kimber,Male,34,Southampton,S,1
+Theobald,Mr Thomas Leonard,Male,34,Southampton,V,3
+Thomas/Tannous,Mr John,Male,34,Cherbourg,V,3
+Ware,Mr Frederick,Male,34,Southampton,V,3
+Nichols,Mr. A. D.,Male,34,Southampton,V,Crew
+Briant,Mr. Albert,Male,34,Southampton,V,Crew
+Lane,Mr. Albert Edward,Male,34,Southampton,V,Crew
+Allsop,Mr. Alfred Samuel,Male,34,Belfast,V,Crew
+Mellor,Mr. Arthur,Male,34,Southampton,V,Crew
+Hands,Mr. Bernard,Male,34,Southampton,V,Crew
+Mackay,Mr. Charles Donald,Male,34,Belfast,S,Crew
+Brown,Mr. Edward,Male,34,Belfast,S,Crew
+Ward,Mr. Edward,Male,34,Southampton,V,Crew
+McGarvey,Mr. Edward Joseph,Male,34,Southampton,V,Crew
+Clench,Mr. Frederick,Male,34,Southampton,S,Crew
+Harris,Mr. Frederick,Male,34,Southampton,S,Crew
+Beedem,Mr. George Arthur,Male,34,Southampton,V,Crew
+Mackie,Mr. George William,Male,34,Southampton,V,Crew
+Buckley,Mr. H.E.,Male,34,Southampton,V,Crew
+Whittman,Mr. Henry,Male,34,Southampton,V,Crew
+Cave,Mr. Herbert,Male,34,Belfast,V,Crew
+Harvey,Mr. Herbert Gifford,Male,34,Southampton,V,Crew
+Pitman,Mr. Herbert John,Male,34,Belfast,S,Crew
+Beattie,Mr. Joseph,Male,34,Belfast,V,Crew
+Gill,Mr. Joseph Stanley,Male,34,Belfast,V,Crew
+Stafford,Mr. Michael (Albert Briant),Male,34,Southampton,V,Crew
+Pook,Mr. P.,Male,34,Belfast,V,Crew
+Egg,Mr. W.H.,Male,34,Southampton,V,Crew
+Bishop,Mr. Walter Alexander,Male,34,Belfast,V,Crew
+Murdock,Mr. William,Male,34,Belfast,S,Crew
+Lucas,Mr. William,Male,34,Belfast,S,Crew
+Moss,Mr. William,Male,34,Belfast,V,Crew
+Becker,Mrs Nellie E.,Female,35,Southampton,S,2
+Cameron,Miss Clear Annie,Female,35,Southampton,S,2
+Cumings,Mrs Florence Briggs,Female,35,Cherbourg,S,1
+Futrelle,Mrs Lily May,Female,35,Southampton,S,1
+Gieger,Miss Amalie,Female,35,Southampton,S,1
+Harris,Mrs Irene,Female,35,Southampton,S,1
+Holverson,Mrs Mary Aline,Female,35,Southampton,S,1
+Moussa,Mrs Mantoura Boulos,Female,35,Cherbourg,V,3
+Schabert,Mrs Emma,Female,35,Cherbourg,S,1
+Ward,Miss Annie Moore,Female,35,Cherbourg,S,1
+Wilkinson,Mrs Elizabeth Anne,Female,35,Southampton,S,2
+Asim,Mr Adola,Male,35,Southampton,V,3
+Brocklebank,Mr William Alfred,Male,35,Southampton,V,3
+Cor,Mr Bartol,Male,35,Southampton,V,3
+Fynney,Mr Joseph J.,Male,35,Southampton,V,2
+Hanna,Mr Mansour,Male,35,Cherbourg,V,3
+Johnston,Mr Andrew Emslie,Male,35,Southampton,V,3
+Keane,Mr Daniel,Male,35,Queenstown,V,2
+Lahtinen,Father William,Male,35,Southampton,V,2
+Lesueur,Mr Gustave J.,Male,35,Cherbourg,S,1
+Markoff,Mr Marin,Male,35,Southampton,V,3
+McGough,Mr James Robert,Male,35,Southampton,S,1
+Rintamäki,Mr Matti,Male,35,Southampton,V,3
+Silverthorne,Mr Spencer Victor,Male,35,Southampton,S,1
+Slemen,Mr Richard James,Male,35,Southampton,V,2
+Van Billiard,Mr Austin Blyler,Male,35,Southampton,V,3
+Van De Velde,Mr Johannes Josef,Male,35,Southampton,V,3
+Crisp,Mr. Albert Hector,Male,35,Belfast,V,Crew
+Cunningham,Mr. Andrew,Male,35,Belfast,S,Crew
+Burroughs,Mr. Arthur,Male,35,Southampton,V,Crew
+Taylor,Mr. C.,Male,35,Southampton,V,Crew
+Crumplin,Mr. Charles,Male,35,Belfast,V,Crew
+Parsons,Mr. Edward,Male,35,Southampton,V,Crew
+Valvassori,Mr. Ettore Luigi,Male,35,Southampton,V,Crew
+Donoghue,Mr. Frank,Male,35,Belfast,V,Crew
+Hinckley,Mr. George,Male,35,Southampton,V,Crew
+Barrow,Mr. Harry,Male,35,Southampton,V,Crew
+Slight,Mr. Harry John,Male,35,Southampton,V,Crew
+Jukes,Mr. James,Male,35,Southampton,V,Crew
+Williamson,Mr. James Bertram,Male,35,Southampton,V,Crew
+Smith,Mr. James Muil,Male,35,Southampton,V,Crew
+Voegelin-Dubach,Mr. Johannes,Male,35,Southampton,V,Crew
+Noon,Mr. John,Male,35,Southampton,V,Crew
+Boyd,Mr. John,Male,35,Southampton,V,Crew
+Puzey,Mr. John E.,Male,35,Belfast,V,Crew
+Smith,"Mr. John Richard ""Jago""",Male,35,Southampton,V,Crew
+Akerman,Mr. Joseph Francis,Male,35,Southampton,V,Crew
+Lefebvre,Mr. Paul Georges,Male,35,Southampton,V,Crew
+Roberts,Mr. Robert George,Male,35,Southampton,V,Crew
+Collins,Mr. Samuel,Male,35,Southampton,S,Crew
+Warwick,Mr. Thomas,Male,35,Southampton,V,Crew
+Major,Mr. Thomas Edgar,Male,35,Belfast,V,Crew
+Ennis,Mr. Walter,Male,35,Southampton,V,Crew
+Nichols,Mr. Walter Henry,Male,35,Southampton,S,Crew
+Phillips,Mr. Walter John,Male,35,Southampton,V,Crew
+Lake,Mr. William,Male,35,Belfast,V,Crew
+Janaway,Mr. William Frank,Male,35,Belfast,V,Crew
+Wallis,Mrs. Catherine Jane,Female,35,Southampton,V,Crew
+Angle,Mrs Florence Agnes,Female,36,Southampton,S,2
+Balls,Mrs Ada E.,Female,36,Southampton,S,2
+Buss,Miss Kate,Female,36,Southampton,S,2
+Carter,Mrs Lucile,Female,36,Southampton,S,1
+Cassebeer,Mrs Eleanor Genevieve,Female,36,Cherbourg,S,1
+Chaudanson,Miss Victorine (Maid to Mrs Emily Ryerson),Female,36,Cherbourg,S,1
+Coutts,Mrs Winnie,Female,36,Southampton,S,3
+De Messemaeker,Mrs Anna,Female,36,Southampton,S,3
+Evans,Miss Edith Corse,Female,36,Cherbourg,V,1
+Johnston,Mrs Eliza,Female,36,Southampton,V,3
+Klasén,Mrs Hulda Kristina Eugenia,Female,36,Southampton,V,3
+Wallcroft,Miss Ellen “Nellie”,Female,36,Southampton,S,2
+Young,Miss Marie Grice,Female,36,Cherbourg,S,1
+Beattie,Mr Thomson,Male,36,Southampton,V,1
+Cardeza,Mr Thomas Drake Martinez,Male,36,Cherbourg,S,1
+Carter,Mr William Ernest,Male,36,Southampton,S,1
+Cavendish,Mr Tyrell William,Male,36,Southampton,V,1
+Chapman,Mr John Henry,Male,36,Southampton,V,2
+Coltcheff,Mr Peju,Male,36,Southampton,V,3
+De Messemaeker,Mr Guillaume Joseph,Male,36,Southampton,S,3
+Flynn,Mr John Irwin,Male,36,Southampton,S,1
+Hocking,Mr Samuel James Metcalfe,Male,36,Southampton,V,2
+Lévy,Mr René Jacques,Male,36,Southampton,V,2
+Lindell,Mr Edvard Bengtsson,Male,36,Southampton,S,3
+Maybery,Mr Frank Hubert,Male,36,Southampton,V,2
+Nancarrow,Mr William Henry,Male,36,Southampton,V,3
+Natsch,Mr Charles,Male,36,Cherbourg,V,1
+Oviés Y Rodríguez,Mr Servando José Florentino,Male,36,Cherbourg,V,1
+Reeves,Mr David,Male,36,Southampton,V,2
+Ross,Mr John Hugo,Male,36,Southampton,V,1
+Shannon,Mr Andrew John,Male,36,Southampton,V,3
+Thompson,Mr Alexander Morrison,Male,36,Southampton,V,3
+Thorneycroft,Mr Percival,Male,36,Southampton,V,3
+Turcin,Mr Stjepan,Male,36,Southampton,V,3
+Van Impe,Mr Jean Baptiste,Male,36,Southampton,V,3
+West,Mr Edwy Arthur,Male,36,Southampton,V,2
+Wittevrongel,Mr Camilius Aloysius,Male,36,Southampton,V,3
+Crawford,Mr. Alfred,Male,36,Belfast,S,Crew
+Veal,Mr. Arthur,Male,36,Southampton,V,Crew
+Othen,Mr. Charles,Male,36,Southampton,S,Crew
+Archer,Mr. Ernest Edward,Male,36,Southampton,S,Crew
+Roberts,Mr. Frank John,Male,36,Belfast,V,Crew
+McCarthy,Mr. Frederick,Male,36,Southampton,V,Crew
+Godwin,Mr. Frederick Charles,Male,36,Southampton,V,Crew
+Wormald,Mr. Frederick William,Male,36,Southampton,V,Crew
+Feltham,Mr. G.,Male,36,Southampton,V,Crew
+Barlow,Mr. George,Male,36,Southampton,V,Crew
+Rickman,Mr. George Albert,Male,36,Southampton,V,Crew
+Chisnall,Mr. George Alexander,Male,36,Belfast,V,Crew
+Hosking,Mr. George Fox,Male,36,Southampton,V,Crew
+Bailey,Mr. George Francis,Male,36,Belfast,V,Crew
+Hill,Mr. H.P.,Male,36,Southampton,V,Crew
+Sparkman,Mr. Henry,Male,36,Southampton,S,Crew
+Ross,Mr. Horace Leopold,Male,36,Southampton,S,Crew
+Gibbons,Mr. Jacob William,Male,36,Southampton,S,Crew
+Boyes,Mr. John Henry,Male,36,Belfast,V,Crew
+Dolby,Mr. Joseph,Male,36,Belfast,V,Crew
+Deslands,Mr. Percival Stainer,Male,36,Southampton,V,Crew
+Wareham,Mr. Robert Arthur,Male,36,Southampton,V,Crew
+Allan,Mr. Robert Spencer,Male,36,Southampton,V,Crew
+Mantle,Mr. Roland Frederick,Male,36,Southampton,V,Crew
+Blake,Mr. Thomas,Male,36,Southampton,V,Crew
+McCawley,Mr. Thomas W.,Male,36,Belfast,V,Crew
+Dickson,Mr. W.,Male,36,Southampton,V,Crew
+Boothby,Mr. W.,Male,36,Southampton,V,Crew
+Long,Mr. William,Male,36,Southampton,V,Crew
+Ward,Mr. William,Male,36,Southampton,S,Crew
+Hine,Mr. William Edward,Male,36,Southampton,V,Crew
+Rattonbury,Mr. William Henry,Male,36,Belfast,V,Crew
+Laitinen,Miss Kristina Sofia,Female,37,Southampton,V,3
+Minahan,Mrs Lillian E.,Female,37,Queenstown,S,1
+Webber,Miss Susan,Female,37,Southampton,S,2
+Weisz,Mrs Mathilde Françoise,Female,37,Southampton,S,2
+Beckwith,Mr Richard Leonard,Male,37,Southampton,S,1
+Brereton,Mr George Andrew,Male,37,Southampton,S,1
+Colley,Mr Edward Pomeroy,Male,37,Southampton,V,1
+Compton,Mr Alexander Taylor Jr,Male,37,Cherbourg,V,1
+Estanislau,Mr Manuel Gonçalves,Male,37,Southampton,V,3
+Franklin,Mr Thomas Parnham,Male,37,Southampton,V,1
+Futrelle,Mr Jacques Heath,Male,37,Southampton,V,1
+Gustafsson,Mr Anders Vilhelm,Male,37,Southampton,V,3
+Harrington,Mr Charles Henry,Male,37,Southampton,V,1
+Smiljanic,Mr Mile,Male,37,Southampton,V,3
+Weisz,Mr Léopold,Male,37,Southampton,V,2
+Willer,Mr Aaron,Male,37,Cherbourg,V,3
+Simpson,Dr. John Edward,Male,37,Southampton,V,Crew
+Foster,Mr. A.,Male,37,Southampton,V,Crew
+Whitford,Mr. A.H.,Male,37,Southampton,V,Crew
+Frost,"Mr. Anthony Wood ""Artie""",Male,37,Belfast,V,Crew
+White,Mr. Arthur,Male,37,Southampton,V,Crew
+Hogg,Mr. Charles William,Male,37,Southampton,V,Crew
+Castleman,Mr. Edward,Male,37,Southampton,V,Crew
+Barker,Mr. Ernest T.,Male,37,Southampton,V,Crew
+Ford,Mr. F.,Male,37,Southampton,V,Crew
+Kenchenten,Mr. Frederick,Male,37,Southampton,V,Crew
+Barnes,Mr. Frederick,Male,37,Southampton,V,Crew
+Edge,Mr. Frederick William,Male,37,Southampton,V,Crew
+Gatti,"Mr. Gaspare Antonio Pietro ""Luigi""",Male,37,Southampton,V,Crew
+McElroy,Mr. Hugh Walter,Male,37,Southampton,V,Crew
+Widgery,Mr. James G.,Male,37,Southampton,S,Crew
+Hardy,Mr. John T.,Male,37,Belfast,S,Crew
+Turley,Mr. Richard,Male,37,Southampton,V,Crew
+Carr,Mr. Richard Stephen,Male,37,Southampton,V,Crew
+Hewett,Mr. Thomas,Male,37,Belfast,V,Crew
+Kirkaldy,Mr. Thomas,Male,37,Southampton,V,Crew
+Perkis,Mr. Walter John,Male,37,Belfast,S,Crew
+Jarvis,Mr. William,Male,37,Southampton,V,Crew
+Gwinn,Mr. William Logan,Male,37,Southampton,V,Crew
+Faulkner,Mr. William Stephen,Male,37,Belfast,S,Crew
+Andersson,Miss Ida Augusta Margareta,Female,38,Southampton,V,3
+Asplund,Mrs Selma Augusta Emilia,Female,38,Southampton,S,3
+Funk,Miss Annie Clemmer,Female,38,Southampton,V,2
+George/Joseph,Mrs Shawneene,Female,38,Cherbourg,S,3
+Thorne,Miss Gertrude Maybelle,Female,38,Cherbourg,S,1
+Allen,Mr William Henry,Male,38,Southampton,V,3
+Cacic,Mr Luka,Male,38,Southampton,V,3
+Dooly,Mr Patrick,Male,38,Queenstown,V,3
+Everett,Mr Thomas James,Male,38,Southampton,V,3
+Fox,Mr Stanley Harrington,Male,38,Southampton,V,2
+Frost,Mr Anthony Wood,Male,38,Belfast,V,2
+Gale,Mr Harry,Male,38,Southampton,V,2
+Graham,Mr George Edward,Male,38,Southampton,V,1
+Hoyt,Mr Frederick Maxfield,Male,38,Southampton,S,1
+Lam,Mr Ali,Male,38,Southampton,S,3
+Morley,Mr Henry Samuel,Male,38,Southampton,V,2
+Otter,Mr Richard,Male,38,Southampton,V,2
+Rekic,Mr Tido,Male,38,Southampton,V,3
+Reuchlin,Mr Jonkheer Johan George,Male,38,Cherbourg,V,1
+Best,Mr. Alfred,Male,38,Belfast,V,Crew
+Jones,Mr. Arthur Ernest,Male,38,Southampton,V,Crew
+Coombs,Mr. Augustus Charles,Male,38,Southampton,V,Crew
+Lydiatt,Mr. Charles,Male,38,Southampton,V,Crew
+Smith,Mr. Charles Edward,Male,38,Southampton,V,Crew
+Edwards,Mr. Clement,Male,38,Southampton,V,Crew
+Dodd,Mr. Edward Charles,Male,38,Belfast,V,Crew
+Hendy,Mr. Edward Martin,Male,38,Belfast,V,Crew
+Hall,Mr. F.A.J.,Male,38,Southampton,V,Crew
+Godley,Mr. George,Male,38,Southampton,S,Crew
+Yearsley,Mr. Harry,Male,38,Southampton,S,Crew
+Fairall,Mr. Henry,Male,38,Belfast,V,Crew
+Keegan,Mr. James,Male,38,Southampton,V,Crew
+Hawkesworth,Mr. James,Male,38,Southampton,V,Crew
+Hill,Mr. James Colston,Male,38,Belfast,V,Crew
+Lovell,Mr. John,Male,38,Southampton,V,Crew
+Smillie,Mr. John,Male,38,Belfast,V,Crew
+McCubbin,Mr. Lee,Male,38,Southampton,V,Crew
+Joas,Mr. N.,Male,38,Southampton,V,Crew
+Gill,Mr. Patrick,Male,38,Southampton,V,Crew
+Ward,Mr. Percy T.,Male,38,Southampton,V,Crew
+McInerney,Mr. Thomas,Male,38,Southampton,V,Crew
+Threlfall,Mr. Thomas,Male,38,Southampton,S,Crew
+Veal,Mr. Thomas H.E.,Male,38,Southampton,V,Crew
+McAndrew,Mr. Thomas Patrick,Male,38,Southampton,V,Crew
+Ferris,Mr. William,Male,38,Southampton,V,Crew
+McCastlen,Mr. William,Male,38,Southampton,V,Crew
+House,Mr. William,Male,38,Belfast,V,Crew
+Hawkesworth,Mr. William Walter,Male,38,Southampton,V,Crew
+Lightoller,"Sub-Lieutenant Charles Herbert, RNR",Male,38,Belfast,S,Crew
+Abbott,Mrs Rhoda Mary “Rosa”,Female,39,Southampton,S,3
+Andersson,Mrs Alfrida Konstantia Brogren,Female,39,Southampton,V,3
+Bessette,Miss Nellie Mayo,Female,39,Cherbourg,S,1
+Compton,Miss Sara Rebecca,Female,39,Cherbourg,S,1
+Crosby,Miss Harriette Rebecca,Female,39,Southampton,S,1
+Endres,Miss Caroline Louise,Female,39,Cherbourg,S,1
+Garside,Miss Ethel,Female,39,Southampton,S,2
+Icard,Miss Rose Amélie,Female,39,Southampton,S,1
+Oliva Y Ocana,Doña Fermina,Female,39,Cherbourg,S,1
+Rice,Mrs Margaret,Female,39,Queenstown,V,3
+Silvey,Mrs Alice Gray,Female,39,Cherbourg,S,1
+Smith,Miss Marion Elsie,Female,39,Southampton,S,2
+Spedden,Mrs Margaretta Corning “Daisy”,Female,39,Cherbourg,S,1
+Taussig,Mrs Tillie,Female,39,Southampton,S,1
+Thayer,Mrs Marian Longstreth,Female,39,Cherbourg,S,1
+Andersson,Mr Anders Johan,Male,39,Southampton,V,3
+Andrews,Mr Thomas,Male,39,Belfast,V,1
+Blank,Mr Henry,Male,39,Cherbourg,S,1
+Cumings,Mr John Bradley,Male,39,Cherbourg,V,1
+Dulles,Mr William Crothers,Male,39,Cherbourg,V,1
+Fry,Mr Richard (Valet to Mr Joseph Bruce Ismay),Male,39,Southampton,V,1
+Harper,Reverend John,Male,39,Southampton,V,2
+Joseph (Shahin),Mr Elias,Male,39,Cherbourg,V,3
+Karun,Mr Franz,Male,39,Cherbourg,S,3
+Keefe,Mr Arthur,Male,39,Southampton,V,3
+Knight,Mr Robert,Male,39,Belfast,V,2
+Niskänen,Mr Juha,Male,39,Southampton,S,3
+Pernot,Mr René,Male,39,Cherbourg,V,2
+Rood,Mr Hugh Roscoe,Male,39,Southampton,V,1
+Uruchurtu,Don. Manuel Ramirez,Male,39,Cherbourg,V,1
+Wilde,"Lieutenant Henry Tingle, RNR",Male,39,Southampton,V,Crew
+Murdoch,"Lieutenant William McMaster, RNR",Male,39,Belfast,V,Crew
+Lavington,Miss Bessie,Female,39,Southampton,S,Crew
+Wildebank,Mr. Alfred E.,Male,39,Southampton,S,Crew
+Moore,Mr. Alfred Ernest,Male,39,Southampton,V,Crew
+Wardner,Mr. Frederick Albert,Male,39,Southampton,V,Crew
+Pelham,Mr. George,Male,39,Southampton,S,Crew
+Mason,Mr. James,Male,39,Southampton,V,Crew
+Shea,Mr. John,Male,39,Belfast,V,Crew
+Harrison,Mr. Norman,Male,39,Belfast,V,Crew
+Bradley,Mr. Patrick Joseph,Male,39,Southampton,V,Crew
+Knight,Mr. Robert J.,Male,39,Belfast,V,Crew
+Nicholls,Mr. Sidney,Male,39,Southampton,V,Crew
+Davis,Mr. Stephen James,Male,39,Southampton,V,Crew
+Knowles,Mr. Thomas,Male,39,Southampton,S,Crew
+Andrews,Mr. Thomas,Male,39,Belfast,V,Crew
+O'Connor,Mr. Thomas Peter,Male,39,Belfast,V,Crew
+Cross,Mr. W.,Male,39,Southampton,V,Crew
+Harder,Mr. William,Male,39,Southampton,S,Crew
+Clark,Mr. William,Male,39,Southampton,S,Crew
+Perrin,Mr. William Charles,Male,39,Southampton,V,Crew
+Bessant,Mr. William Edward,Male,39,Southampton,V,Crew
+Farquharson,Mr. William Edward,Male,39,Southampton,V,Crew
+Ahlin,Mrs Johanna Persdotter,Female,40,Southampton,V,3
+Bourke,Miss Mary,Female,40,Queenstown,V,3
+Brown,Mrs Elizabeth Catherine,Female,40,Southampton,S,2
+Būlus,Mrs Sultānah,Female,40,Cherbourg,V,3
+Byström,Mrs Karolina,Female,40,Southampton,V,2
+Goldenberg,Mrs Nella,Female,40,Cherbourg,S,1
+Kenyon,Mrs Marion Estelle,Female,40,Southampton,S,1
+Lefebvre,Mrs Frances Marie,Female,40,Southampton,V,3
+Shutes,Miss Elizabeth Weed,Female,40,Southampton,S,1
+Watt,Mrs Elizabeth,Female,40,Southampton,S,2
+Asplund,Mr Carl Oscar Vilhelm Gustafsson,Male,40,Southampton,V,3
+Badt,Mr Mohamed,Male,40,Cherbourg,V,3
+Clifford,Mr George Quincy,Male,40,Southampton,V,1
+Connaughton,Mr Michael,Male,40,Queenstown,V,3
+Green,Mr George,Male,40,Southampton,V,3
+Homer,Mr Harry,Male,40,Southampton,S,1
+Partner,Mr Austin,Male,40,Southampton,V,1
+Samaan,Mr Hanna Elias,Male,40,Cherbourg,V,3
+Simmons,Mr John,Male,40,Southampton,V,3
+Sivic,Mr Husein,Male,40,Southampton,V,3
+Skoog,Mr Wilhelm Johansson,Male,40,Southampton,V,3
+Veal,Mr James,Male,40,Southampton,V,2
+Littlejohn,Mr. Alexander James,Male,40,Belfast,S,Crew
+Witcher,Mr. Alfred,Male,40,Southampton,V,Crew
+Self,Mr. Alfred Henry,Male,40,Southampton,V,Crew
+Harrison,Mr. Aragon D.,Male,40,Southampton,S,Crew
+Scott,Mr. Archibald,Male,40,Southampton,V,Crew
+Proctor,Mr. Charles,Male,40,Belfast,V,Crew
+Kaspar,Mr. Franz V.,Male,40,Southampton,S,Crew
+Witt,Mr. Henry Dennis,Male,40,Southampton,V,Crew
+Roberts,Mr. Hugh H.,Male,40,Southampton,V,Crew
+Canner,Mr. J.,Male,40,Southampton,V,Crew
+Orr,Mr. J.,Male,40,Southampton,V,Crew
+Wood,Mr. J.T.,Male,40,Southampton,V,Crew
+Anderson,Mr. James,Male,40,Southampton,S,Crew
+Barker,Mr. Reginald Lomond,Male,40,Belfast,V,Crew
+Hopkins,Mr. Robert John,Male,40,Southampton,S,Crew
+Chisholm,Mr. Roderick Robert Crispin,Male,40,Belfast,V,Crew
+Small,Mr. William,Male,40,Southampton,V,Crew
+Wright,Mr. William,Male,40,Southampton,S,Crew
+Bond,Mr. William John,Male,40,Belfast,V,Crew
+McLaren,Mrs.,Female,40,Southampton,S,Crew
+Robinson,Mrs. Annie,Female,40,Southampton,S,Crew
+Burns,Miss Elizabeth Margaret,Female,41,Cherbourg,S,1
+Connolly,Miss Kate,Female,41,Queenstown,V,3
+Mellinger,Mrs Elizabeth Anne,Female,41,Southampton,S,2
+Panula,Mrs Maija Emelia Abrahamintytar,Female,41,Southampton,V,3
+Rosblom,Mrs Helena Wilhelmina,Female,41,Southampton,V,3
+Brady,Mr John Bertram,Male,41,Southampton,V,1
+Faunthorpe,Mr Harry Bartram,Male,41,Southampton,V,2
+Goldsmith,Mr Nathan,Male,41,Southampton,V,3
+Hansen,Mr Claus Peter,Male,41,Southampton,V,3
+Hosono,Mr Masabumi,Male,41,Southampton,S,2
+Kenyon,Mr Frederick Roland,Male,41,Southampton,V,1
+Klaber,Mr Herman,Male,41,Southampton,V,1
+Nirva,Mr Iisakki Antino äijö,Male,41,Southampton,V,3
+Peruschitz,Father Josef,Male,41,Southampton,V,2
+Törber,Mr Ernst Wilhelm,Male,41,Southampton,V,3
+Bright,Mr. Arthur John,Male,41,Southampton,S,Crew
+Hurst,Mr. Charles,Male,41,Southampton,V,Crew
+Black,Mr. D.,Male,41,Southampton,V,Crew
+Hamblyn,Mr. Ernest William,Male,41,Southampton,V,Crew
+Allsop,Mr. Frank Richard,Male,41,Southampton,V,Crew
+Woodford,Mr. Frederick,Male,41,Southampton,V,Crew
+Green,Mr. George,Male,41,Southampton,V,Crew
+Snellgrove,Mr. George,Male,41,Southampton,V,Crew
+Jenner,Mr. Harry,Male,41,Belfast,V,Crew
+Etches,Mr. Henry Samuel,Male,41,Belfast,S,Crew
+Johnston,Mr. James,Male,41,Belfast,S,Crew
+Anderson,Mr. John,Male,41,Southampton,S,Crew
+Woody,Mr. Oscar Scott,Male,41,Southampton,V,Crew
+Samuel,Mr. Owen Wilmore,Male,41,Southampton,V,Crew
+Lee,Mr. Reginald Robinson,Male,41,Southampton,S,Crew
+Triggs,Mr. Robert,Male,41,Southampton,S,Crew
+Wynn,Mr. Walter,Male,41,Belfast,S,Crew
+Dunford,Mr. William,Male,41,Southampton,V,Crew
+Leather,Mrs. Elizabeth May,Female,41,Southampton,S,Crew
+Roberts,Mrs. Mary Kezziah (née Humphrys),Female,41,Southampton,S,Crew
+Fleming,Miss Margaret (Maid to Mr & Mrs Thayer),Female,42,Cherbourg,S,1
+Frauenthal,Mrs Clara,Female,42,Southampton,S,1
+Louch,Mrs Alice Adelaide,Female,42,Southampton,V,2
+McGowan,Miss Catherine,Female,42,Queenstown,V,3
+Abbing,Mr Anthony,Male,42,Southampton,V,3
+Borebank,Mr John James,Male,42,Southampton,V,1
+Bourke,Mr John,Male,42,Queenstown,V,3
+Bowenur,Mr Solomon,Male,42,Southampton,V,2
+Byles,Father Thomas Roussel Davids,Male,42,Southampton,V,2
+Calderhead,Mr Edward Pennington,Male,42,Southampton,S,1
+Dimic,Mr Jovan,Male,42,Southampton,V,3
+Drew,Mr James Vivian,Male,42,Southampton,V,2
+Flynn,Mr John,Male,42,Queenstown,V,3
+Goodwin,Mr Frederick Joseph,Male,42,Southampton,V,3
+Head,Mr Christopher,Male,42,Southampton,V,1
+Holverson,Mr Alexander Oskar,Male,42,Southampton,V,1
+Hoyt,Mr William Fisher,Male,42,Cherbourg,S,1
+Humblen,Mr Adolf Mathias Nicolai Olsen,Male,42,Southampton,V,3
+Jacobsohn,Mr Sidney Samuel,Male,42,Southampton,V,2
+Kimball,Mr Edwin Nelson Jr.,Male,42,Southampton,S,1
+Lindeberg-Lind,Mr Erik Gustaf,Male,42,Southampton,V,1
+Olsen,Mr Karl Siegwart Andreas,Male,42,Southampton,V,3
+Phillips,Mr Escott Robert,Male,42,Southampton,V,2
+Robins,Mr Victor (Valet to Mr John Jacob Astor),Male,42,Cherbourg,V,1
+Sdycoff,Mr Todor,Male,42,Southampton,V,3
+Slabenoff,Mr Petco,Male,42,Southampton,V,3
+Stanton,Mr Samuel Ward,Male,42,Cherbourg,V,2
+Smith,Miss Katherine E.,Female,42,Southampton,S,Crew
+Nichols,Mr. Alfred,Male,42,Belfast,V,Crew
+Scavino,Mr. Candido,Male,42,Southampton,V,Crew
+Morgan (Bird),Mr. Charles Frederick,Male,42,Southampton,V,Crew
+Benville,Mr. E.,Male,42,Southampton,V,Crew
+Nannini,Mr. Francesco Luigi,Male,42,Southampton,V,Crew
+Cook,Mr. George,Male,42,Southampton,V,Crew
+Crosby,Mr. J. Bertram,Male,42,Southampton,V,Crew
+Thompson,Mr. John William,Male,42,Southampton,S,Crew
+Scovell,Mr. Robert,Male,42,Southampton,V,Crew
+Taylor,Mr. T.,Male,42,Southampton,V,Crew
+Brice,Mr. Walter T.,Male,42,Southampton,S,Crew
+van der Brugge,Mr. Wessel Adrianus,Male,42,Southampton,V,Crew
+Gold,Mrs. Katherine (née Cook),Female,42,Southampton,S,Crew
+Goodwin,Mrs Augusta,Female,43,Southampton,V,3
+Robert,Mrs Elisabeth Walton,Female,43,Southampton,S,1
+Skoog,Mrs Anna Bernhardina,Female,43,Southampton,V,3
+Chisholm,Mr Roderick Robert Crispin,Male,43,Belfast,V,1
+Cook,Mr Jacob,Male,43,Southampton,V,3
+Dintcheff,Mr Valtcho,Male,43,Southampton,V,3
+Frauenthal,Mr Isaac Gerald,Male,43,Cherbourg,S,1
+Holm,Mr John Fredrik Alexander,Male,43,Southampton,V,3
+Sæther,Mr Simon Sivertsen,Male,43,Southampton,V,3
+Salomon,Mr Abraham Lincoln,Male,43,Cherbourg,S,1
+Williams,Mr Fletcher Fellowes Lambert,Male,43,Southampton,V,1
+Pascoe,Mr. Charles H.,Male,43,Southampton,S,Crew
+Reed,Mr. Charles S.,Male,43,Southampton,V,Crew
+Gregory,Mr. David,Male,43,Southampton,V,Crew
+Freeman,Mr. Ernest Edward Samuel,Male,43,Belfast,V,Crew
+Bradshaw,Mr. J.A.,Male,43,Southampton,V,Crew
+Kirkham,Mr. James,Male,43,Southampton,V,Crew
+Bailey,Mr. Joseph Henry,Male,43,Southampton,S,Crew
+Bochet,Mr. Pierre Giuseppe,Male,43,Southampton,V,Crew
+Hemming,Mr. Samuel Ernest,Male,43,Belfast,S,Crew
+Kemp,Mr. Thomas Hulman,Male,43,Southampton,V,Crew
+King,Mr. Thomas W.,Male,43,Southampton,V,Crew
+McMurray,Mr. William Ernest,Male,43,Belfast,V,Crew
+Kingscote,Mr. William Ford,Male,43,Southampton,V,Crew
+Brown,Mrs Margaret “Molly”,Female,44,Cherbourg,S,1
+Gibson,Mrs Pauline Caroline,Female,44,Cherbourg,S,1
+Hippach,Mrs Ida Sophia,Female,44,Cherbourg,S,1
+Sage,Mrs Annie Elizabeth,Female,44,Southampton,V,3
+Stengel,Mrs Annie May,Female,44,Cherbourg,S,1
+Cribb,Mr John Hatfield,Male,44,Southampton,V,3
+Harbeck,Mr William H.,Male,44,Southampton,V,2
+Harris,Mr Walter,Male,44,Southampton,V,2
+Hilliard,Mr Herbert Henry,Male,44,Southampton,V,1
+Hold,Mr Stephen,Male,44,Southampton,V,2
+Kelly,Mr James,Male,44,Queenstown,V,3
+Lyntakoff,Mr Stanko,Male,44,Southampton,V,3
+Minahan,Dr William Edward,Male,44,Queenstown,V,1
+Sage,Mr John George,Male,44,Southampton,V,3
+Sundman,Mr Johan Julian,Male,44,Southampton,S,3
+Gregson,Miss Mary,Female,44,Southampton,S,Crew
+Hayter,Mr. Arthur,Male,44,Belfast,V,Crew
+Eastman,Mr. Charles,Male,44,Southampton,V,Crew
+Kearl,Mr. Charles H.,Male,44,Southampton,V,Crew
+Knight,Mr. George,Male,44,Southampton,S,Crew
+Dodd,Mr. George Charles,Male,44,Belfast,V,Crew
+Creese,Mr. Henry Philip,Male,44,Belfast,V,Crew
+Kelly,Mr. James,Male,44,Southampton,V,Crew
+Foley,Mr. John,Male,44,Belfast,S,Crew
+Moores,Mr. Richard Henry,Male,44,Southampton,V,Crew
+Bott,Mr. W.,Male,44,Southampton,V,Crew
+Assaf,Mrs Mariana,Female,45,Cherbourg,S,3
+Barbara,Mrs Catherine David,Female,45,Cherbourg,V,3
+Bowen,Miss Grace Scott,Female,45,Cherbourg,S,1
+Carr,Miss Jane,Female,45,Queenstown,V,3
+Carter,Mrs Lilian,Female,45,Southampton,V,2
+Christy,Mrs Alice Frances,Female,45,Southampton,S,2
+Greenfield,Mrs Blanche,Female,45,Cherbourg,S,1
+Hansen,Mrs Jennie Louise,Female,45,Southampton,S,3
+Kelly,Mrs Fanny Maria,Female,45,Southampton,S,2
+Kimball,Mrs Susan Gertrude,Female,45,Southampton,S,1
+Lindblom,Miss Augusta Charlotta,Female,45,Southampton,V,3
+Spencer,Mrs Marie Eugenie,Female,45,Cherbourg,S,1
+Wick,Mrs Mary Peebles,Female,45,Southampton,S,1
+Blackwell,Mr Stephen Weart,Male,45,Southampton,V,1
+Brewe,Dr Arthur Jackson,Male,45,Cherbourg,V,1
+Chevré,Mr Paul Romaine Marie Léonce,Male,45,Cherbourg,S,1
+Dahl,Mr Charles Edward,Male,45,Southampton,S,3
+Ekström,Mr Amandus,Male,45,Southampton,V,3
+Fardon,Mr Charles Richard,Male,45,Southampton,V,3
+Harris,Mr Henry Birkhardt,Male,45,Southampton,V,1
+Harrison,Mr William Henry,Male,45,Southampton,V,1
+Hawksford,Mr Walter James,Male,45,Southampton,S,1
+Mallet,Mr Albert Denis Pierre,Male,45,Cherbourg,V,2
+Romaine,Mr Charles Hallace,Male,45,Southampton,S,1
+Spedden,Mr Frederic Oakley,Male,45,Cherbourg,S,1
+Ware,Mr John James,Male,45,Southampton,V,2
+Woolner,Mr Hugh,Male,45,Southampton,S,1
+Youssiff (Sam’Aan),Mr Gerios,Male,45,Cherbourg,V,3
+Cullen,Mr. Charles,Male,45,Belfast,S,Crew
+Haslin,Mr. James,Male,45,Southampton,V,Crew
+Couch,Mr. Joseph Henry,Male,45,Southampton,V,Crew
+Palles,Mr. Thomas Henry Michael,Male,45,Southampton,V,Crew
+Wilton,Mr. William,Male,45,Southampton,V,Crew
+Bliss,Mrs. Emma (née Junod),Female,45,Southampton,S,Crew
+Beckwith,Mrs Sallie,Female,46,Southampton,S,1
+Bidois,Miss Rosalie (Maid to Mrs John Jacob Astor),Female,46,Cherbourg,S,1
+Keane,Miss Nora Agnes,Female,46,Queenstown,S,2
+Lemore,Mrs Amelia,Female,46,Southampton,S,2
+Swift,Mrs Margaret Welles,Female,46,Southampton,S,1
+Butt,Major Archibald Willingham,Male,46,Southampton,V,1
+Chaffee,Mr Herbert Fuller,Male,46,Southampton,V,1
+Guggenheim,Mr Benjamin,Male,46,Cherbourg,V,1
+Jones,Mr Charles Cresson,Male,46,Southampton,V,1
+McCaffry,Mr Thomas Francis,Male,46,Southampton,V,1
+McKane,Mr Peter Daniel,Male,46,Southampton,V,2
+Porter,Mr Walter Chamberlain,Male,46,Southampton,V,1
+Rosenshine,Mr George,Male,46,Cherbourg,V,1
+Rothschild,Mr Martin,Male,46,Cherbourg,V,1
+Vandercruyssen,Mr Victor,Male,46,Southampton,V,3
+Bailey,Mr. George W.,Male,46,Southampton,V,Crew
+Carter,Mr. James,Male,46,Southampton,V,Crew
+Mintram,Mr. William,Male,46,Southampton,V,Crew
+Chaffee,Mrs Carrie Constance,Female,47,Southampton,S,1
+Robins,Mrs Charity,Female,47,Southampton,V,3
+Wilkes,Mrs Ellen,Female,47,Southampton,S,3
+Anderson,Mr Harry,Male,47,Southampton,S,1
+Astor,Colonel John Jacob,Male,47,Cherbourg,V,1
+Barkworth,Mr Algernon Henry,Male,47,Southampton,S,1
+Gee,Mr Arthur H.,Male,47,Southampton,V,1
+Gilbert,Mr William,Male,47,Southampton,V,2
+Goldenberg,Mr Samuel L.,Male,47,Cherbourg,S,1
+Hart,Mr Benjamin,Male,47,Southampton,V,2
+Jarvis,Mr Denzil John,Male,47,Southampton,V,2
+Moore,Mr Clarence Bloomfield,Male,47,Southampton,V,1
+Saalfeld,Mr Adolphe,Male,47,Southampton,S,1
+Stap,Miss Sarah Agnes,Female,47,Southampton,S,Crew
+Dinenage,Mr. James Richard,Male,47,Southampton,V,Crew
+Light,Mr. W.,Male,47,Southampton,V,Crew
+McCarthy,Mr. William,Male,47,Southampton,S,Crew
+Chibnall,Mrs Edith Martha Bowerman,Female,48,Southampton,S,1
+Davies,Mrs Agnes,Female,48,Southampton,S,2
+Douglas,Mrs Mahala,Female,48,Cherbourg,S,1
+Duff Gordon,"Lucy Christiana, Lady",Female,48,Cherbourg,S,1
+Flegenheim,Mrs Antoinette,Female,48,Cherbourg,S,1
+Frölicher-Stehli,Mrs Margaretha Emerentia,Female,48,Cherbourg,S,1
+Hart,Mrs Esther Ada,Female,48,Southampton,S,2
+Herman,Mrs Jane,Female,48,Southampton,S,2
+Ryerson,Mrs Emily Maria,Female,48,Cherbourg,S,1
+Toomey,Miss Ellen Mary,Female,48,Southampton,S,2
+Brandeis,Mr Emil Franklin,Male,48,Cherbourg,V,1
+Elsbury,Mr William James,Male,48,Southampton,V,3
+Harper,Mr Henry Sleeper,Male,48,Cherbourg,S,1
+Jensen,Mr Niels Rasmus,Male,48,Southampton,V,3
+Meo (Martino),Mr Alfonzo,Male,48,Southampton,V,3
+Milling,Mr Jacob Christian,Male,48,Southampton,V,2
+Taylor,Mr Elmer Zebley,Male,48,Southampton,S,1
+Walker,Mr William Anderson,Male,48,Southampton,V,1
+Brewster,Mr. George H.,Male,48,Belfast,V,Crew
+Walpole,Mr. James,Male,48,Belfast,V,Crew
+Humphreys,Mr. Sidney James,Male,48,Southampton,S,Crew
+Baxter,Mr. Thomas Ferguson,Male,48,Southampton,V,Crew
+Anderson,Mr. Walter J.,Male,48,Southampton,V,Crew
+Harper,Mrs Myra Raymond,Female,49,Cherbourg,S,1
+Leader,Dr Alice May,Female,49,Southampton,S,1
+Taylor,Mrs Juliet Cummins,Female,49,Southampton,S,1
+Case,Mr Howard Brown,Male,49,Southampton,V,1
+Duff Gordon,Sir Cosmo Edmund,Male,49,Cherbourg,S,1
+Frauenthal,Dr Henry William,Male,49,Southampton,S,1
+Herman,Mr Samuel,Male,49,Southampton,V,2
+Ismay,Mr Joseph Bruce,Male,49,Southampton,S,1
+Johnson,Mr August,Male,49,Southampton,V,3
+Rommetvedt,Mr Knud Paust,Male,49,Southampton,V,3
+Thayer,Mr John Borland,Male,49,Cherbourg,V,1
+Penrose,Mr. John Poole,Male,49,Belfast,V,Crew
+Owen,Mr. Lewis,Male,49,Southampton,V,Crew
+Rousseau,Mr. Pierre,Male,49,Southampton,V,Crew
+Baxter,Mrs Hélène,Female,50,Cherbourg,S,1
+Isham,Miss Ann Elizabeth,Female,50,Cherbourg,V,1
+Lines,Mrs Elizabeth Lindsey,Female,50,Cherbourg,S,1
+Widener,Mrs Eleanor,Female,50,Southampton,S,1
+Douglas,Mr Walter Donald,Male,50,Cherbourg,V,1
+Hodges,Mr Henry Price,Male,50,Southampton,V,2
+Julian,Mr Henry Forbes,Male,50,Southampton,V,1
+Louch,Mr Charles,Male,50,Southampton,V,2
+Robins,Mr Alexander A.,Male,50,Southampton,V,3
+Widener,Mr George Dunton,Male,50,Southampton,V,1
+Caton,Miss Annie,Female,50,Southampton,S,Crew
+March,Mr. John Starr,Male,50,Southampton,V,Crew
+Bell,Mr. Joseph,Male,50,Belfast,V,Crew
+Hogeboom,Mrs Anna Louisa,Female,51,Cherbourg,S,1
+Bateman,Reverend Robert James,Male,51,Southampton,V,2
+Daly,Mr Peter Dennis,Male,51,Southampton,V,1
+Lundahl,Mr Johan Svensson,Male,51,Southampton,V,3
+Silvey,Mr William Baird,Male,51,Cherbourg,V,1
+Storey,Mr Thomas,Male,51,Southampton,V,3
+Widegren,Mr Carl Peter,Male,51,Southampton,V,3
+Williams,Mr Charles Duane,Male,51,Cherbourg,V,1
+Weikman,Mr. Augustus Henry,Male,51,Southampton,S,Crew
+Mills,Mr. Christopher,Male,51,Southampton,S,Crew
+Baxter,Mr. Harry Ross,Male,51,Southampton,V,Crew
+Candee,Mrs Helen Churchill,Female,52,Cherbourg,S,1
+Hays,Mrs Clara Jennings,Female,52,Southampton,S,1
+Stephenson,Mrs Martha,Female,52,Cherbourg,S,1
+Chapman,Mr Charles Henry,Male,52,Southampton,V,2
+Dodge,Dr Washington,Male,52,Southampton,S,1
+Greenberg,Mr Samuel,Male,52,Southampton,V,2
+Kirkland,Father Charles Leonard,Male,52,Queenstown,V,2
+Peuchen,Major Arthur Godfrey,Male,52,Southampton,S,1
+Taussig,Mr Emil,Male,52,Southampton,V,1
+Mishellamy,Mr. Abraham,Male,52,Belfast,V,Crew
+Maytum,Mr. Alfred,Male,52,Belfast,V,Crew
+Flarty,Mr. Edward,Male,52,Southampton,S,Crew
+Chitty,Mr. George Henry,Male,52,Southampton,V,Crew
+Appleton,Mrs Charlotte,Female,53,Southampton,S,1
+Gracie,Colonel Archibald,Male,53,Southampton,S,1
+Rouse,Mr Richard Henry,Male,53,Southampton,V,3
+Eustis,Miss Elizabeth Mussey,Female,54,Cherbourg,S,1
+Ford,Mrs Margaret Ann Watson,Female,54,Southampton,V,3
+Hocking,Mrs Eliza,Female,54,Southampton,S,2
+Rothschild,Mrs Elizabeth Jane Anne,Female,54,Cherbourg,S,1
+Carter,Father Ernest Courtenay,Male,54,Southampton,V,2
+McCarthy,Mr Timothy J.,Male,54,Southampton,V,1
+Moraweck,Dr Ernest,Male,54,Southampton,V,2
+Stengel,Mr Charles Emil Henry,Male,54,Cherbourg,S,1
+White,Mr Percival Wayland,Male,54,Southampton,V,1
+Wiseman,Mr Philippe,Male,54,Southampton,V,3
+Cornell,Mrs Malvina Helen,Female,55,Southampton,S,1
+Lindström,Mrs Sigrid,Female,55,Cherbourg,S,1
+White,Mrs Ella,Female,55,Cherbourg,S,1
+Douton,Mr William Joseph,Male,55,Southampton,V,2
+Hays,Mr Charles Melville,Male,55,Southampton,V,1
+Hipkins,Mr William Edward,Male,55,Southampton,V,1
+Molson,Mr Harry Markland,Male,55,Southampton,V,1
+Shellard,Mr Frederick William Blainey,Male,55,Southampton,V,3
+Latimer,Mr. Andrew L.,Male,55,Belfast,V,Crew
+Hewlett,Mrs Mary Dunbar,Female,56,Southampton,S,2
+Potter,Mrs Lily Alexenia,Female,56,Cherbourg,S,1
+Simonius-Blumer,Mr Colonel (Oberst) Alfons,Male,56,Southampton,S,1
+Smart,Mr John Montgomery,Male,56,Southampton,V,1
+Smith,Mr James Clinch,Male,56,Cherbourg,V,1
+Mack,Mrs Mary,Female,57,Southampton,V,2
+Ashby,Mr John,Male,57,Southampton,V,2
+Farthing,Mr John (Manservant to Mr & Mrs Straus),Male,57,Southampton,V,1
+Smith,Mr Richard William,Male,57,Southampton,V,1
+Spencer,Mr William Augustus,Male,57,Cherbourg,V,1
+Wick,Colonel George Dennick,Male,57,Southampton,V,1
+Coleman,Mr. John,Male,57,Belfast,V,Crew
+Coleman,Mr. John,Male,57,Southampton,V,Crew
+Bucknell,Mrs Emma Eliza,Female,58,Cherbourg,S,1
+Cardeza,Mrs Charlotte Wardle,Female,58,Cherbourg,S,1
+Ridsdale,Miss Lucy,Female,58,Southampton,S,2
+Risien,Mrs Emma Jane,Female,58,Southampton,V,3
+Kent,Mr Edward Austin,Male,58,Cherbourg,V,1
+Newell,Mr Arthur Webster,Male,58,Cherbourg,V,1
+Hart,Mr. James,Male,58,Southampton,V,Crew
+Rule,Mr. Samuel James,Male,58,Belfast,S,Crew
+Brown,Mrs Caroline Lane,Female,59,Southampton,S,1
+Graham,Mrs Edith,Female,59,Southampton,S,1
+Lurette,Miss Eugénie Elise (Maid to Mr & Mrs Spencer),Female,59,Cherbourg,S,1
+Parrish,Mrs Lutie Davis,Female,59,Southampton,S,2
+Coxon,Mr Daniel,Male,59,Southampton,V,3
+Crafton,Mr John Bertram,Male,59,Southampton,V,1
+Nicholson,Mr Arthur Ernest,Male,59,Southampton,V,1
+Rowe,Mr Alfred G.,Male,59,Southampton,V,1
+Sjöstedt,Mr Ernst Adolf,Male,59,Southampton,V,2
+Weir,Colonel John,Male,59,Southampton,V,1
+Jago,Mr. Joseph,Male,59,Southampton,V,Crew
+Fortune,Mrs Mary,Female,60,Southampton,S,1
+Warren,Mrs Anna Sophia,Female,60,Cherbourg,S,1
+Baumann,Mr John D.,Male,60,Cherbourg,V,1
+Brown,Mr Thomas William Solomon,Male,60,Southampton,V,2
+Frölicher-Stehli,Mr Maximilian Josef,Male,60,Cherbourg,S,1
+Nysveen,Mr Johan Hansen,Male,60,Southampton,V,3
+May Sr.,Mr. Arthur William,Male,60,Southampton,V,Crew
+Bonnell,Miss Elizabeth,Female,61,Southampton,S,1
+Howard,Mrs Ellen Truelove,Female,61,Southampton,V,2
+Lingane,Mr John,Male,61,Queenstown,V,2
+Ryerson,Mr Arthur Larned,Male,61,Cherbourg,V,1
+Sutton,Mr Frederick,Male,61,Southampton,V,1
+Van Der Hoef,Mr Wyckoff,Male,61,Belfast,V,1
+Andrews,Miss Kornelia Theodosia,Female,62,Cherbourg,S,1
+Meanwell,Mrs Marian,Female,62,Southampton,V,3
+Stone,Mrs Martha Evelyn,Female,62,Southampton,S,1
+Harris,Mr George,Male,62,Southampton,S,2
+Stead,Mr William Thomas,Male,62,Southampton,V,1
+Wright,Mr George,Male,62,Southampton,V,1
+Smith,"Commander Edward John, RNR",Male,62,Southampton,V,Crew
+O'Loughlin,Dr. William Francis Norman,Male,62,Belfast,V,Crew
+Rasmussen,Mrs Lena Jakobsen,Female,63,Southampton,V,3
+Straus,Mrs Rosalie Ida,Female,63,Southampton,V,1
+Turkula,Mrs Hedwig,Female,63,Southampton,S,3
+Howard,Mr Benjamin,Male,63,Southampton,V,2
+Myles,Mr Thomas Francis,Male,63,Queenstown,V,2
+Warren,Mr Frank Manley,Male,63,Cherbourg,V,1
+Compton,Mrs Mary Eliza,Female,64,Cherbourg,S,1
+Crosby,Mrs Catherine Elizabeth,Female,64,Southampton,S,1
+Fortune,Mr Mark,Male,64,Southampton,V,1
+Ostby,Mr Engelhart Cornelius,Male,64,Southampton,V,1
+Stewart,Mr Albert Ankeny,Male,64,Cherbourg,V,1
+Dwan,Mr Frank,Male,65,Queenstown,V,3
+Millet,Mr Francis Davis,Male,65,Cherbourg,V,1
+Wheadon,Mr Edward Henry,Male,65,Southampton,V,2
+Connors,Mr Patrick,Male,66,Queenstown,V,3
+Webber,Mr James,Male,66,Southampton,V,3
+Willis,Mr. William,Male,66,Southampton,V,Crew
+Straus,Mr Isidor,Male,67,Southampton,V,1
+Risien,Mr Samuel Beard,Male,69,Southampton,V,3
+Crosby,Captain Edward Gifford,Male,70,Southampton,V,1
+Artagaveytia,Mr Ramon,Male,71,Cherbourg,V,1
+Goldschmidt,Mr George B.,Male,71,Cherbourg,V,1
+Mitchell,Mr Henry Michael,Male,71,Southampton,V,2
+Svensson,Mr Johan,Male,74,Southampton,V,3
